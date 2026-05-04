@@ -1,6 +1,6 @@
 # Geisbert lab viral genomics analysis pipeline
 
-> DOI pending
+[![DOI](https://zenodo.org/badge/1229264894.svg)](https://doi.org/10.5281/zenodo.20030741) 
 
 ## Workflow
 
