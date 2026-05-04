@@ -1,0 +1,35 @@
+#gtf-version 2.2
+#!genome-build-custom custom:KU182910.1
+KU182910.1	RefSeq	gene	56	3020	.	+	.	gene_id "NP"; gene_name "NP"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "DF49_53414gpNP"; 
+KU182910.1	RefSeq	transcript	56	3020	.	+	.	gene_id "NP"; gene_name "NP"; transcript_id "NP"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "DF49_53414gpNP"; product "nucleoprotein"; 
+KU182910.1	RefSeq	exon	56	3020	.	+	.	gene_id "NP"; gene_name "NP"; transcript_id "NP"; transcript_biotype "mRNA"; locus_tag "DF49_53414gpNP"; product "nucleoprotein"; exon_number "1"; 
+KU182910.1	RefSeq	CDS	464	2683	.	+	0	gene_id "NP"; gene_name "NP"; transcript_id "NP"; gbkey "CDS"; locus_tag "DF49_53414gpNP"; product "nucleoprotein"; protein_id "ALT19758.1"; exon_number "1"; 
+KU182910.1	RefSeq	gene	3026	4395	.	+	.	gene_id "VP35"; gene_name "VP35"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "DF49_53414gpVP35"; 
+KU182910.1	RefSeq	transcript	3026	4395	.	+	.	gene_id "VP35"; gene_name "VP35"; transcript_id "VP35"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "DF49_53414gpVP35"; product "polymerase complex protein"; 
+KU182910.1	RefSeq	exon	3026	4395	.	+	.	gene_id "VP35"; gene_name "VP35"; transcript_id "VP35"; transcript_biotype "mRNA"; locus_tag "DF49_53414gpVP35"; product "polymerase complex protein"; exon_number "1"; 
+KU182910.1	RefSeq	CDS	3114	4139	.	+	0	gene_id "VP35"; gene_name "VP35"; transcript_id "VP35"; gbkey "CDS"; locus_tag "DF49_53414gpVP35"; product "polymerase complex protein"; protein_id "ALT19759.1"; exon_number "1"; 
+KU182910.1	RefSeq	gene	4378	5881	.	+	.	gene_id "VP40"; gene_name "VP40"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "DF49_53414gpVP40"; 
+KU182910.1	RefSeq	transcript	4378	5881	.	+	.	gene_id "VP40"; gene_name "VP40"; transcript_id "VP40"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "DF49_53414gpVP40"; product "matrix protein"; 
+KU182910.1	RefSeq	exon	4378	5881	.	+	.	gene_id "VP40"; gene_name "VP40"; transcript_id "VP40"; transcript_biotype "mRNA"; locus_tag "DF49_53414gpVP40"; product "matrix protein"; exon_number "1"; 
+KU182910.1	RefSeq	CDS	4467	5447	.	+	0	gene_id "VP40"; gene_name "VP40"; transcript_id "VP40"; gbkey "CDS"; locus_tag "DF49_53414gpVP40"; product "matrix protein"; protein_id "ALT19760.1"; exon_number "1"; 
+KU182910.1	RefSeq	gene	5888	8293	.	+	.	gene_id "GP"; gene_name "GP"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "DF49_53414gpGP"; 
+KU182910.1	RefSeq	transcript	5888	8293	.	+	.	gene_id "GP"; gene_name "GP"; transcript_id "GP"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "DF49_53414gpGP"; note "unedited mRNA"; product "structural and secreted glycoproteins"; 
+KU182910.1	RefSeq	exon	5888	8293	.	+	.	gene_id "GP"; gene_name "GP"; transcript_id "GP"; transcript_biotype "mRNA"; locus_tag "DF49_53414gpGP"; note "unedited mRNA"; product "structural and secreted glycoproteins"; exon_number "1"; 
+KU182910.1	RefSeq	CDS	6027	6911	.	+	0	gene_id "GP"; gene_name "GP"; transcript_id "GP"; gbkey "CDS"; locus_tag "DF49_53414gpGP"; product "structural glycoprotein"; protein_id "ALT19763.1"; exon_number "1"; exception "RNA editing"; 
+KU182910.1	RefSeq	CDS	6911	8056	.	+	0	gene_id "GP"; gene_name "GP"; transcript_id "GP"; gbkey "CDS"; locus_tag "DF49_53414gpGP"; product "structural glycoprotein"; protein_id "ALT19763.1"; exon_number "1"; exception "RNA editing"; 
+KU182910.1	RefSeq	CDS	6027	7124	.	+	0	gene_id "GP"; gene_name "GP"; transcript_id "GP"; gbkey "CDS"; locus_tag "DF49_53414gpsGP"; product "secreted glycoprotein"; protein_id "ALT19762.1"; exon_number "1"; exception "RNA editing"; 
+KU182910.1	RefSeq	CDS	6027	6911	.	+	0	gene_id "GP"; gene_name "GP"; transcript_id "GP"; gbkey "CDS"; locus_tag "DF49_53414gpSsGP"; product "small secreted glycoprotein"; protein_id "ALT19761.1"; exon_number "1"; exception "RNA editing"; 
+KU182910.1	RefSeq	CDS	6910	6936	.	+	0	gene_id "GP"; gene_name "GP"; transcript_id "GP"; gbkey "CDS"; locus_tag "DF49_53414gpSsGP"; product "small secreted glycoprotein"; protein_id "ALT19761.1"; exon_number "1"; exception "RNA editing"; 
+KU182910.1	RefSeq	gene	8276	9733	.	+	.	gene_id "VP30"; gene_name "VP30"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "DF49_53414gpVP30"; 
+KU182910.1	RefSeq	transcript	8276	9733	.	+	.	gene_id "VP30"; gene_name "VP30"; transcript_id "VP30"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "DF49_53414gpVP30"; product "minor nucleoprotein and transcription activator"; 
+KU182910.1	RefSeq	exon	8276	9733	.	+	.	gene_id "VP30"; gene_name "VP30"; transcript_id "VP30"; transcript_biotype "mRNA"; locus_tag "DF49_53414gpVP30"; product "minor nucleoprotein and transcription activator"; exon_number "1"; 
+KU182910.1	RefSeq	CDS	8503	9372	.	+	0	gene_id "VP30"; gene_name "VP30"; transcript_id "VP30"; gbkey "CDS"; locus_tag "DF49_53414gpVP30"; product "minor nucleoprotein and transcription activator"; protein_id "ALT19764.1"; exon_number "1"; 
+KU182910.1	RefSeq	gene	9873	11503	.	+	.	gene_id "VP24"; gene_name "VP24"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "DF49_53414gpVP24"; 
+KU182910.1	RefSeq	transcript	9873	11503	.	+	.	gene_id "VP24"; gene_name "VP24"; transcript_id "VP24"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "DF49_53414gpVP24"; product "membrane-associated protein"; 
+KU182910.1	RefSeq	exon	9873	11503	.	+	.	gene_id "VP24"; gene_name "VP24"; transcript_id "VP24"; transcript_biotype "mRNA"; locus_tag "DF49_53414gpVP24"; product "membrane-associated protein"; exon_number "1"; 
+KU182910.1	RefSeq	CDS	10339	11094	.	+	0	gene_id "VP24"; gene_name "VP24"; transcript_id "VP24"; gbkey "CDS"; locus_tag "DF49_53414gpVP24"; product "membrane-associated protein"; protein_id "ALT19765.1"; exon_number "1"; 
+KU182910.1	RefSeq	gene	11486	18461	.	+	.	gene_id "L"; gene_name "L"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "DF49_53414gpL"; 
+KU182910.1	RefSeq	transcript	11486	18461	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "DF49_53414gpL"; product "RNA-dependent RNA polymerase"; 
+KU182910.1	RefSeq	exon	11486	18461	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; transcript_biotype "mRNA"; locus_tag "DF49_53414gpL"; product "RNA-dependent RNA polymerase"; exon_number "1"; 
+KU182910.1	RefSeq	CDS	11566	18198	.	+	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; locus_tag "DF49_53414gpL"; product "RNA-dependent RNA polymerase"; protein_id "ALT19766.1"; exon_number "1"; 
+###

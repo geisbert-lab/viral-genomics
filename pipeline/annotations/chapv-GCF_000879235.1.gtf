@@ -1,0 +1,19 @@
+#gtf-version 2.2
+#!genome-build-accession NCBI_Assembly:GCF_000879235.1
+NC_010563.1	RefSeq	gene	73	369	.	+	.	gene_id "Z"; gene_name "Z"; db_xref "GeneID:6216306"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "CVsL_gp1"; 
+NC_010563.1	RefSeq	transcript	73	369	.	+	.	gene_id "Z"; gene_name "Z"; transcript_id "Z"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "CVsL_gp1"; product "ring finger protein"; 
+NC_010563.1	RefSeq	exon	73	369	.	+	.	gene_id "Z"; gene_name "Z"; transcript_id "Z"; transcript_biotype "mRNA"; locus_tag "CVsL_gp1"; product "ring finger protein"; exon_number "1"; 
+NC_010563.1	RefSeq	CDS	73	369	.	+	0	gene_id "Z"; gene_name "Z"; transcript_id "Z"; gbkey "CDS"; locus_tag "CVsL_gp1"; product "ring finger protein"; protein_id "YP_001816784.1"; exon_number "1"; 
+NC_010563.1	RefSeq	gene	442	7068	.	-	.	gene_id "L"; gene_name "L"; db_xref "GeneID:6216305"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "CVsL_gp2"; 
+NC_010563.1	RefSeq	transcript	442	7068	.	-	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "CVsL_gp2"; product "L polymerase"; 
+NC_010563.1	RefSeq	exon	442	7068	.	-	.	gene_id "L"; gene_name "L"; transcript_id "L"; transcript_biotype "mRNA"; locus_tag "CVsL_gp2"; product "L polymerase"; exon_number "1"; 
+NC_010563.1	RefSeq	CDS	442	7068	.	-	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; locus_tag "CVsL_gp2"; product "L polymerase"; protein_id "YP_001816785.1"; exon_number "1"; 
+NC_010562.1	RefSeq	gene	59	1513	.	+	.	gene_id "GPC"; gene_name "GPC"; db_xref "GeneID:6216304"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "CVsS_gp1"; 
+NC_010562.1	RefSeq	transcript	59	1513	.	+	.	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "CVsS_gp1"; product "glycoprotein precursor"; 
+NC_010562.1	RefSeq	exon	59	1513	.	+	.	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; transcript_biotype "mRNA"; locus_tag "CVsS_gp1"; product "glycoprotein precursor"; exon_number "1"; 
+NC_010562.1	RefSeq	CDS	59	1513	.	+	0	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; gbkey "CDS"; locus_tag "CVsS_gp1"; product "glycoprotein precursor"; protein_id "YP_001816782.1"; exon_number "1"; 
+NC_010562.1	RefSeq	gene	1609	3297	.	-	.	gene_id "N"; gene_name "N"; db_xref "GeneID:6216303"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "CVsS_gp2"; 
+NC_010562.1	RefSeq	transcript	1609	3297	.	-	.	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "CVsS_gp2"; product "nucleocapsid protein"; 
+NC_010562.1	RefSeq	exon	1609	3297	.	-	.	gene_id "N"; gene_name "N"; transcript_id "N"; transcript_biotype "mRNA"; locus_tag "CVsS_gp2"; product "nucleocapsid protein"; exon_number "1"; 
+NC_010562.1	RefSeq	CDS	1609	3297	.	-	0	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "CDS"; locus_tag "CVsS_gp2"; product "nucleocapsid protein"; protein_id "YP_001816783.1"; exon_number "1"; 
+###

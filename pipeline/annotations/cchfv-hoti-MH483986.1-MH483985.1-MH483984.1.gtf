@@ -1,0 +1,15 @@
+#gtf-version 2.2
+#!genome-build-accession custom:MH483986.1-MH483985.1-MH483984.1
+MH483986.1	Genbank	gene	34	11871	.	+	.	gene_id "L"; gene_name "L"; gbkey "Gene"; gene_biotype "protein_coding"; 
+MH483986.1	Genbank	transcript	34	11871	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; 
+MH483986.1	Genbank	exon	34	11871	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; exon_number "1"; 
+MH483986.1	Genbank	CDS	34	11871	.	+	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; product "RNA-dependent RNA polymerase"; protein_id "AWX63618.1"; exon_number "1"; 
+MH483985.1	Genbank	gene	53	5119	.	+	.	gene_id "GnGc"; gene_name "GnGc"; gbkey "Gene"; gene_biotype "protein_coding"; 
+MH483985.1	Genbank	transcript	53	5119	.	+	.	gene_id "GnGc"; gene_name "GnGc"; transcript_id "GnGc"; gbkey "mRNA"; transcript_biotype "mRNA"; product "glycoprotein precursor"; 
+MH483985.1	Genbank	exon	53	5119	.	+	.	gene_id "GnGc"; gene_name "GnGc"; transcript_id "GnGc"; transcript_biotype "mRNA"; product "glycoprotein precursor"; exon_number "1"; 
+MH483985.1	Genbank	CDS	53	5119	.	+	0	gene_id "GnGc"; gene_name "GnGc"; transcript_id "GnGc"; gbkey "CDS"; product "glycoprotein precursor"; protein_id "AWX63617.1"; exon_number "1"; 
+MH483984.1	Genbank	gene	14	1462	.	+	.	gene_id "N"; gene_name "N"; gbkey "Gene"; gene_biotype "protein_coding"; 
+MH483984.1	Genbank	transcript	14	1462	.	+	.	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "mRNA"; transcript_biotype "mRNA"; product "nucleocapsid protein"; 
+MH483984.1	Genbank	exon	14	1462	.	+	.	gene_id "N"; gene_name "N"; transcript_id "N"; transcript_biotype "mRNA"; product "nucleocapsid protein"; exon_number "1"; 
+MH483984.1	Genbank	CDS	14	1462	.	+	0	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "CDS"; product "nucleocapsid protein"; protein_id "AWX63616.1"; exon_number "1"; 
+###

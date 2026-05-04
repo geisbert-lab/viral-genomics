@@ -1,0 +1,32 @@
+#gtf-version 2.2
+#!genome-build-accession NCBI_Assembly:GCA_031121245.1
+DQ447653.1	Genbank	gene	49	2844	.	+	.	gene_id "NP"; gene_name "NP"; gbkey "Gene"; gene_biotype "protein_coding"; 
+DQ447653.1	Genbank	transcript	49	2844	.	+	.	gene_id "NP"; gene_name "NP"; transcript_id "NP"; gbkey "mRNA"; transcript_biotype "mRNA"; product "nucleoprotein"; 
+DQ447653.1	Genbank	exon	49	2844	.	+	.	gene_id "NP"; gene_name "NP"; transcript_id "NP"; transcript_biotype "mRNA"; product "nucleoprotein"; exon_number "1"; 
+DQ447653.1	Genbank	CDS	104	2191	.	+	0	gene_id "NP"; gene_name "NP"; transcript_id "NP"; gbkey "CDS"; product "nucleoprotein"; protein_id "ABE27012.1"; exon_number "1"; 
+DQ447653.1	Genbank	gene	2854	4410	.	+	.	gene_id "VP35"; gene_name "VP35"; gbkey "Gene"; gene_biotype "protein_coding"; 
+DQ447653.1	Genbank	transcript	2854	4410	.	+	.	gene_id "VP35"; gene_name "VP35"; transcript_id "VP35"; gbkey "mRNA"; transcript_biotype "mRNA"; product "protein in nucleocapsid; polymerase cofactor; type I interferon antagonist"; 
+DQ447653.1	Genbank	exon	2854	4410	.	+	.	gene_id "VP35"; gene_name "VP35"; transcript_id "VP35"; transcript_biotype "mRNA"; product "protein in nucleocapsid; polymerase cofactor; type I interferon antagonist"; exon_number "1"; 
+DQ447653.1	Genbank	CDS	2945	3934	.	+	0	gene_id "VP35"; gene_name "VP35"; transcript_id "VP35"; gbkey "CDS"; product "protein in nucleocapsid; polymerase cofactor; type I interferon antagonist"; protein_id "ABE27013.1"; exon_number "1"; 
+DQ447653.1	Genbank	gene	4415	5819	.	+	.	gene_id "VP40"; gene_name "VP40"; gbkey "Gene"; gene_biotype "protein_coding"; 
+DQ447653.1	Genbank	transcript	4415	5819	.	+	.	gene_id "VP40"; gene_name "VP40"; transcript_id "VP40"; gbkey "mRNA"; transcript_biotype "mRNA"; product "matrix protein"; 
+DQ447653.1	Genbank	exon	4415	5819	.	+	.	gene_id "VP40"; gene_name "VP40"; transcript_id "VP40"; transcript_biotype "mRNA"; product "matrix protein"; exon_number "1"; 
+DQ447653.1	Genbank	CDS	4568	5479	.	+	0	gene_id "VP40"; gene_name "VP40"; transcript_id "VP40"; gbkey "CDS"; product "matrix protein"; protein_id "ABE27014.1"; exon_number "1"; 
+DQ447653.1	Genbank	gene	5825	8670	.	+	.	gene_id "GP"; gene_name "GP"; gbkey "Gene"; gene_biotype "protein_coding"; 
+DQ447653.1	Genbank	transcript	5825	8670	.	+	.	gene_id "GP"; gene_name "GP"; transcript_id "GP"; gbkey "mRNA"; transcript_biotype "mRNA"; product "glycoprotein"; 
+DQ447653.1	Genbank	exon	5825	8670	.	+	.	gene_id "GP"; gene_name "GP"; transcript_id "GP"; transcript_biotype "mRNA"; product "glycoprotein"; exon_number "1"; 
+DQ447653.1	Genbank	CDS	5941	7986	.	+	0	gene_id "GP"; gene_name "GP"; transcript_id "GP"; gbkey "CDS"; product "glycoprotein"; protein_id "ABE27015.1"; exon_number "1"; 
+DQ447653.1	Genbank	gene	8768	10016	.	+	.	gene_id "VP30"; gene_name "VP30"; gbkey "Gene"; gene_biotype "protein_coding"; 
+DQ447653.1	Genbank	transcript	8768	10016	.	+	.	gene_id "VP30"; gene_name "VP30"; transcript_id "VP30"; gbkey "mRNA"; transcript_biotype "mRNA"; product "minor nucleoprotein"; 
+DQ447653.1	Genbank	exon	8768	10016	.	+	.	gene_id "VP30"; gene_name "VP30"; transcript_id "VP30"; transcript_biotype "mRNA"; product "minor nucleoprotein"; exon_number "1"; 
+DQ447653.1	Genbank	CDS	8869	9714	.	+	0	gene_id "VP30"; gene_name "VP30"; transcript_id "VP30"; gbkey "CDS"; product "minor nucleoprotein"; protein_id "ABE27016.1"; exon_number "1"; 
+DQ447653.1	Genbank	gene	9999	11285	.	+	.	gene_id "VP24"; gene_name "VP24"; gbkey "Gene"; gene_biotype "protein_coding"; 
+DQ447653.1	Genbank	transcript	9999	11285	.	+	.	gene_id "VP24"; gene_name "VP24"; transcript_id "VP24"; gbkey "mRNA"; transcript_biotype "mRNA"; 
+product "minor matrix protein"; 
+DQ447653.1	Genbank	exon	9999	11285	.	+	.	gene_id "VP24"; gene_name "VP24"; transcript_id "VP24"; transcript_biotype "mRNA"; product "minor matrix protein"; exon_number "1"; 
+DQ447653.1	Genbank	CDS	10207	10968	.	+	0	gene_id "VP24"; gene_name "VP24"; transcript_id "VP24"; gbkey "CDS"; product "minor matrix protein"; protein_id "ABE27017.1"; exon_number "1"; 
+DQ447653.1	Genbank	gene	11291	19037	.	+	.	gene_id "L"; gene_name "L"; gbkey "Gene"; gene_biotype "protein_coding"; 
+DQ447653.1	Genbank	transcript	11291	19037	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; 
+DQ447653.1	Genbank	exon	11291	19037	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; exon_number "1"; 
+DQ447653.1	Genbank	CDS	11481	18476	.	+	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; product "RNA-dependent RNA polymerase"; protein_id "ABE27018.1"; exon_number "1"; 
+###

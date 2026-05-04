@@ -1,0 +1,20 @@
+#gtf-version 2.2
+#!genome-build-accession custom:PP826288.1-PP826289.1
+PP826289.1	RefSeq	gene	68	370	.	+	.	gene_id "Z"; gene_name "Z"; gbkey "Gene"; gene_biotype "protein_coding"; 
+PP826289.1	RefSeq	transcript	68	370	.	+	.	gene_id "Z"; gene_name "Z"; transcript_id "Z"; gbkey "mRNA"; transcript_biotype "mRNA"; product "ring finger protein"; 
+PP826289.1	RefSeq	exon	68	370	.	+	.	gene_id "Z"; gene_name "Z"; transcript_id "Z"; transcript_biotype "mRNA"; product "Z protein"; exon_number "1"; 
+PP826289.1	RefSeq	CDS	68	370	.	+	0	gene_id "Z"; gene_name "Z"; transcript_id "Z"; gbkey "CDS"; product "ring finger protein"; protein_id "XBA96071.1"; exon_number "1"; 
+PP826289.1	RefSeq	gene	468	7130	.	-	.	gene_id "L"; gene_name "L"; gbkey "Gene"; gene_biotype "protein_coding"; 
+PP826289.1	RefSeq	transcript	468	7130	.	-	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; 
+PP826289.1	RefSeq	exon	468	7130	.	-	.	gene_id "L"; gene_name "L"; transcript_id "L"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; exon_number "1"; 
+PP826289.1	RefSeq	CDS	468	7130	.	-	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; product "RNA-dependent RNA polymerase"; protein_id "XBA96072.1"; exon_number "1"; 
+PP826288.1	RefSeq	gene	55	1530	.	+	.	gene_id "GPC"; gene_name "GPC"; gbkey "Gene"; gene_biotype "protein_coding"; 
+PP826288.1	RefSeq	transcript	55	1530	.	+	.	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; gbkey "mRNA"; transcript_biotype "mRNA"; product "glycoprotein precursor"; 
+PP826288.1	RefSeq	exon	55	1530	.	+	.	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; transcript_biotype "mRNA"; product "glycoprotein precursor"; exon_number "1"; 
+PP826288.1	RefSeq	CDS	55	1530	.	+	0	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; gbkey "CDS"; product "glycoprotein"; protein_id "XBA96069.1"; exon_number "1"; 
+PP826288.1	RefSeq	gene	1592	3301	.	-	.	gene_id "NP"; gene_name "NP"; gbkey "Gene"; gene_biotype "protein_coding"; 
+PP826288.1	RefSeq	transcript	1592	3301	.	-	.	gene_id "NP"; gene_name "NP"; transcript_id "NP"; gbkey "mRNA"; transcript_biotype "mRNA"; product "nucleoprotein"; 
+PP826288.1	RefSeq	exon	1592	3301	.	-	.	gene_id "NP"; gene_name "NP"; transcript_id "NP"; transcript_biotype "mRNA"; product "nucleoprotein"; exon_number "1"; 
+PP826288.1	RefSeq	CDS	1592	3301	.	-	0	gene_id "NP"; gene_name "NP"; transcript_id "NP"; gbkey "CDS"; product "nucleoprotein"; protein_id "XBA96070.1"; exon_number "1"; 
+###
+

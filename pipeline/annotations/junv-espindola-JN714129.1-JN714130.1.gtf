@@ -1,0 +1,20 @@
+#gtf-version 2.2
+#!genome-build-accession custom:JN714129.1-JN714130.1
+JN714130.1	RefSeq	gene	84	368	.	+	.	gene_id "Z"; gene_name "Z"; gbkey "Gene"; gene_biotype "protein_coding"; 
+JN714130.1	RefSeq	transcript	84	368	.	+	.	gene_id "Z"; gene_name "Z"; transcript_id "Z"; gbkey "mRNA"; transcript_biotype "mRNA"; product "ring finger protein"; 
+JN714130.1	RefSeq	exon	84	368	.	+	.	gene_id "Z"; gene_name "Z"; transcript_id "Z"; transcript_biotype "mRNA"; product "ring finger protein"; exon_number "1"; 
+JN714130.1	RefSeq	CDS	84	368	.	+	0	gene_id "Z"; gene_name "Z"; transcript_id "Z"; gbkey "CDS"; product "ring finger protein"; protein_id "AFA43483.1"; exon_number "1"; 
+JN714130.1	RefSeq	gene	452	7084	.	-	.	gene_id "L"; gene_name "L"; gbkey "Gene"; gene_biotype "protein_coding"; 
+JN714130.1	RefSeq	transcript	452	7084	.	-	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; 
+JN714130.1	RefSeq	exon	452	7084	.	-	.	gene_id "L"; gene_name "L"; transcript_id "L"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; exon_number "1"; 
+JN714130.1	RefSeq	CDS	452	7084	.	-	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; product "RNA-dependent RNA polymerase"; protein_id "AFA43484.1"; exon_number "1"; 
+JN714129.1	RefSeq	gene	1634	3328	.	-	.	gene_id "N"; gene_name "N"; gbkey "Gene"; gene_biotype "protein_coding"; 
+JN714129.1	RefSeq	transcript	1634	3328	.	-	.	gene_id "N"; gene_name "N"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; product "nucleoprotein"; 
+JN714129.1	RefSeq	exon	1634	3328	.	-	.	gene_id "N"; gene_name "N"; transcript_id "L"; transcript_biotype "mRNA"; product "nucleoprotein"; exon_number "1"; 
+JN714129.1	RefSeq	CDS	1634	3328	.	-	0	gene_id "N"; gene_name "N"; transcript_id "L"; gbkey "CDS"; product "nucleoprotein"; protein_id "WAD86879.1"; exon_number "1"; 
+JN714129.1	RefSeq	gene	85	1542	.	+	.	gene_id "GPC"; gene_name "GPC"; gbkey "Gene"; gene_biotype "protein_coding"; 
+JN714129.1	RefSeq	transcript	85	1542	.	+	.	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; gbkey "mRNA"; transcript_biotype "mRNA"; product "glycoprotein precursor"; 
+JN714129.1	RefSeq	exon	85	1542	.	+	.	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; transcript_biotype "mRNA"; product "glycoprotein precursor"; exon_number "1"; 
+JN714129.1	RefSeq	CDS	85	1542	.	+	0	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; gbkey "CDS"; product "glycoprotein precursor"; protein_id "AFA43481.1"; exon_number "1"; 
+###
+

@@ -1,0 +1,14 @@
+#gtf-version 2.2
+#!genome-build-accession NCBI_Assembly:GCF_018594555.1
+NC_078225.1	RefSeq	gene	78	11915	.	+	.	gene_id "L"; gene_name "L"; db_xref "GeneID:80550086"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "QK638_sLgp1"; 
+NC_078225.1	RefSeq	transcript	78	11915	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "QK638_sLgp1"; product "RNA-dependent RNA polymerase";
+NC_078225.1	RefSeq	exon	78	11915	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; transcript_biotype "mRNA"; locus_tag "QK638_sLgp1"; product "RNA-dependent RNA polymerase"; exon_number "1";
+NC_078225.1	RefSeq	CDS	78	11915	.	+	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; locus_tag "QK638_sLgp1"; product "RNA-dependent RNA polymerase"; protein_id "YP_010839901.1"; exon_number "1"; 
+NC_078227.1	RefSeq	gene	78	5165	.	+	.	gene_id "GnGc"; gene_name "GnGc"; db_xref "GeneID:80550092"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "QK638_sMgp1"; 
+NC_078227.1	RefSeq	transcript	78	5165	.	+	.	gene_id "GnGc"; gene_name "GnGc"; transcript_id "GnGc"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "QK638_sMgp1"; product "glycoprotein precursor"; 
+NC_078227.1	RefSeq	exon	78	5165	.	+	.	gene_id "GnGc"; gene_name "GnGc"; transcript_id "GnGc"; transcript_biotype "mRNA"; locus_tag "QK638_sMgp1"; product "glycoprotein precursor"; exon_number "1"; 
+NC_078227.1	RefSeq	CDS	78	5165	.	+	0	gene_id "GnGc"; gene_name "GnGc"; transcript_id "GnGc"; gbkey "CDS"; locus_tag "QK638_sMgp1"; product "glycoprotein precursor"; protein_id "YP_010839903.1"; exon_number "1"; 
+NC_078226.1	RefSeq	gene	56	1504	.	+	.	gene_id "N"; gene_name "N"; db_xref "GeneID:80550089"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "QK638_sSgp1"; 
+NC_078226.1	RefSeq	transcript	56	1504	.	+	.	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "QK638_sSgp1"; product "nucleocapsid protein"; 
+NC_078226.1	RefSeq	CDS	56	1504	.	+	0	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "CDS"; locus_tag "QK638_sSgp1"; product "nucleocapsid protein"; protein_id "YP_010839902.1"; exon_number "1"; 
+###

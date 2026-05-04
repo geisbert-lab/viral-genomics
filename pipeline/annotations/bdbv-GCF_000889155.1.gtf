@@ -1,0 +1,35 @@
+#gtf-version 2.2
+#!genome-build-accession NCBI_Assembly:GCF_000889155.1
+NC_014373.1	RefSeq	gene	56	3014	.	+	.	gene_id "NP"; gene_name "NP"; db_xref "GeneID:9487269"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "BDBVp1"; 
+NC_014373.1	RefSeq	transcript	56	3014	.	+	.	gene_id "NP"; gene_name "NP"; transcript_id "NP"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "BDBVp1"; product "nucleoprotein"; 
+NC_014373.1	RefSeq	exon	56	3014	.	+	.	gene_id "NP"; gene_name "NP"; transcript_id "NP"; transcript_biotype "mRNA"; locus_tag "BDBVp1"; product "nucleoprotein"; exon_number "1"; 
+NC_014373.1	RefSeq	CDS	458	2677	.	+	0	gene_id "NP"; gene_name "NP"; transcript_id "NP"; gbkey "CDS"; locus_tag "BDBVp1"; product "nucleoprotein"; protein_id "YP_003815432.1"; exon_number "1"; 
+NC_014373.1	RefSeq	gene	3020	4389	.	+	.	gene_id "VP35"; gene_name "VP35"; db_xref "GeneID:9487263"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "BDBVp2"; 
+NC_014373.1	RefSeq	transcript	3020	4389	.	+	.	gene_id "VP35"; gene_name "VP35"; transcript_id "NP"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "BDBVp2"; product "VP35"; 
+NC_014373.1	RefSeq	exon	3020	4389	.	+	.	gene_id "VP35"; gene_name "VP35"; transcript_id "VP35"; transcript_biotype "mRNA"; locus_tag "BDBVp2"; product "VP35"; exon_number "1"; 
+NC_014373.1	RefSeq	CDS	3108	4133	.	+	0	gene_id "VP35"; gene_name "VP35"; transcript_id "VP35"; gbkey "CDS"; locus_tag "BDBVp2"; product "polymerase complex protein"; protein_id "YP_003815433.1"; exon_number "1"; 
+NC_014373.1	RefSeq	gene	4372	5875	.	+	.	gene_id "VP40"; gene_name "VP40"; db_xref "GeneID:9487264"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "BDBVp3"; 
+NC_014373.1	RefSeq	transcript	4372	5875	.	+	.	gene_id "VP40"; gene_name "VP40"; transcript_id "VP40"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "BDBVp3"; product "VP40"; 
+NC_014373.1	RefSeq	exon	4372	5875	.	+	.	gene_id "VP40"; gene_name "VP40"; transcript_id "VP40"; transcript_biotype "mRNA"; locus_tag "BDBVp3"; product "matrix protein"; exon_number "1"; 
+NC_014373.1	RefSeq	CDS	4461	5441	.	+	0	gene_id "VP40"; gene_name "VP40"; transcript_id "VP40"; gbkey "CDS"; locus_tag "BDBVp3"; product "matrix protein"; protein_id "YP_003815434.1"; exon_number "1"; 
+NC_014373.1	RefSeq	gene	5882	8286	.	+	.	gene_id "GP"; gene_name "GP"; db_xref "GeneID:9487265"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "BDBVp4"; 
+NC_014373.1	RefSeq	transcript	5882	8286	.	+	.	gene_id "GP"; gene_name "GP"; transcript_id "GP"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "BDBVp4"; product "structural and secreted glycoproteins"; note "unedited mRNA"; 
+NC_014373.1	RefSeq	exon	5882	8286	.	+	.	gene_id "GP"; gene_name "GP"; transcript_id "GP"; transcript_biotype "mRNA"; locus_tag "BDBVp4"; product "structural and secreted glycoproteins"; note "unedited mRNA"; exon_number "1";
+NC_014373.1	RefSeq	CDS	6021	6905	.	+	0	gene_id "GP"; gene_name "GP"; transcript_id "GP"; gbkey "CDS"; locus_tag "BDBVp4"; product "structural glycoprotein"; protein_id "YP_003815435.1"; exon_number "1"; exception "RNA editing"; 
+NC_014373.1	RefSeq	CDS	6905	8050	.	+	0	gene_id "GP"; gene_name "GP"; transcript_id "GP"; gbkey "CDS"; locus_tag "BDBVp4"; product "structural glycoprotein"; protein_id "YP_003815435.1"; exon_number "1"; exception "RNA editing"; 
+NC_014373.1	RefSeq	CDS	6021	7142	.	+	0	gene_id "GP"; gene_name "GP"; transcript_id "GP"; gbkey "CDS"; locus_tag "BDBVp4"; product "secreted glycoprotein"; protein_id "YP_003815436.1"; exon_number "1"; 
+NC_014373.1	RefSeq	CDS	6021	6905	.	+	0	gene_id "GP"; gene_name "GP"; transcript_id "GP"; gbkey "CDS"; locus_tag "BDBVp4"; product "small secreted glycoprotein"; protein_id "YP_003815437.1"; exon_number "1"; exception "RNA editing"; 
+NC_014373.1	RefSeq	CDS	6907	6930	.	+	0	gene_id "GP"; gene_name "GP"; transcript_id "GP"; gbkey "CDS"; locus_tag "BDBVp4"; product "small secreted glycoprotein"; protein_id "YP_003815437.1"; exon_number "1"; exception "RNA editing"; 
+NC_014373.1	RefSeq	gene	8269	9728	.	+	.	gene_id "VP30"; gene_name "VP30"; db_xref "GeneID:9487266"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "BDBVp5"; 
+NC_014373.1	RefSeq	transcript	8269	9728	.	+	.	gene_id "VP30"; gene_name "VP30"; transcript_id "VP30"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "BDBVp5"; product "minor nucleoprotein"; 
+NC_014373.1	RefSeq	exon	8269	9728	.	+	.	gene_id "VP30"; gene_name "VP30"; transcript_id "VP30"; transcript_biotype "mRNA"; locus_tag "BDBVp5"; product "minor nucleoprotein"; exon_number "1"; 
+NC_014373.1	RefSeq	CDS	8496	9365	.	+	0	gene_id "VP30"; gene_name "VP30";transcript_id "VP30"; gbkey "CDS"; locus_tag "BDBVp5"; product "minor nucleoprotein"; protein_id "YP_003815438.1"; exon_number "1"; 
+NC_014373.1	RefSeq	gene	9869	11504	.	+	.	gene_id "VP24"; gene_name "VP24"; db_xref "GeneID:9487267"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "BDBVp6"; 
+NC_014373.1	RefSeq	transcript	9869	11504	.	+	.	gene_id "VP24"; gene_name "VP24"; transcript_id "VP24"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "BDBVp6"; product "membrane-associated protein"; 
+NC_014373.1	RefSeq	exon	9869	11504	.	+	.	gene_id "VP24"; gene_name "VP24"; transcript_id "VP24"; transcript_biotype "mRNA"; locus_tag "BDBVp6"; product "membrane-associated protein"; exon_number "1"; 
+NC_014373.1	RefSeq	CDS	10335	11090	.	+	0	gene_id "VP24"; gene_name "VP24"; transcript_id "VP24"; gbkey "CDS"; locus_tag "BDBVp6"; product "membrane-associated protein"; protein_id "YP_003815439.1"; exon_number "1"; 
+NC_014373.1	RefSeq	gene	11487	18465	.	+	.	gene_id "L"; gene_name "L"; db_xref "GeneID:9487268"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "BDBVp7"; 
+NC_014373.1	RefSeq	transcript	11487	18465	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "BDBVp7"; product "RNA-dependent RNA polymerase"; 
+NC_014373.1	RefSeq	exon	11487	18465	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; transcript_biotype "mRNA"; locus_tag "BDBVp7"; product "RNA-dependent RNA polymerase"; exon_number "1"; 
+NC_014373.1	RefSeq	CDS	11567	18199	.	+	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; locus_tag "BDBVp7"; product "RNA-dependent RNA polymerase"; protein_id "YP_003815440.1"; exon_number "1"; 
+###

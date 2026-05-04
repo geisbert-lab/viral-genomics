@@ -1,0 +1,19 @@
+#gtf-version 2.2
+#!genome-build-accession custom:MW227338.1-MW227339.1  
+MW227338.1	RefSeq	gene	92	376	.	+	.	gene_id "Z"; gene_name "Z"; gbkey "Gene"; gene_biotype "protein_coding"; 
+MW227338.1	RefSeq	transcript	92	376	.	+	.	gene_id "Z"; gene_name "Z"; transcript_id "Z"; gbkey "mRNA"; transcript_biotype "mRNA"; product "ring finger protein"; 
+MW227338.1	RefSeq	exon	92	376	.	+	.	gene_id "Z"; gene_name "Z"; transcript_id "Z"; transcript_biotype "mRNA"; product "Z protein"; exon_number "1"; 
+MW227338.1	RefSeq	CDS	92	376	.	+	0	gene_id "Z"; gene_name "Z"; transcript_id "Z"; gbkey "CDS"; product "ring finger protein"; exon_number "1"; 
+MW227338.1	RefSeq	gene	459	7091	.	-	.	gene_id "L"; gene_name "L"; gbkey "Gene"; gene_biotype "protein_coding"; 
+MW227338.1	RefSeq	transcript	459	7091	.	-	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; 
+MW227338.1	RefSeq	exon	459	7091	.	-	.	gene_id "L"; gene_name "L"; transcript_id "L"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; exon_number "1"; 
+MW227338.1	RefSeq	CDS	459	7091	.	-	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; product "RNA-dependent RNA polymerase"; exon_number "1"; 
+MW227339.1	RefSeq	gene	1642	3336	.	-	.	gene_id "N"; gene_name "N"; gbkey "Gene"; gene_biotype "protein_coding"; 
+MW227339.1	RefSeq	transcript	1642	3336	.	-	.	gene_id "N"; gene_name "N"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; product "nucleoprotein"; 
+MW227339.1	RefSeq	exon	1642	3336	.	-	.	gene_id "N"; gene_name "N"; transcript_id "L"; transcript_biotype "mRNA"; product "nucleoprotein"; exon_number "1"; 
+MW227339.1	RefSeq	CDS	1642	3336	.	-	0	gene_id "N"; gene_name "N"; transcript_id "L"; gbkey "CDS"; product "nucleoprotein"; exon_number "1"; 
+MW227339.1	RefSeq	gene	93	1550	.	+	.	gene_id "GPC"; gene_name "GPC"; gbkey "Gene"; gene_biotype "protein_coding"; 
+MW227339.1	RefSeq	transcript	93	1550	.	+	.	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; gbkey "mRNA"; transcript_biotype "mRNA"; product "glycoprotein"; 
+MW227339.1	RefSeq	exon	93	1550	.	+	.	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; transcript_biotype "mRNA"; product "glycoprotein"; exon_number "1"; 
+MW227339.1	RefSeq	CDS	93	1550	.	+	0	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; gbkey "CDS"; product "glycoprotein"; exon_number "1"; 
+###

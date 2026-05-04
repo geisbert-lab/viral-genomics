@@ -1,0 +1,15 @@
+#gtf-version 2.2
+#!genome-build-accession custom:MT279045.1-MT279044.1-MT279043.1
+MT279045.1	Genbank	gene	45	11963	.	+	.	gene_id "L"; gene_name "L"; gbkey "Gene"; gene_biotype "protein_coding"; 
+MT279045.1	Genbank	transcript	45	11963	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; 
+MT279045.1	Genbank	exon	45	11963	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; exon_number "1"; 
+MT279045.1	Genbank	CDS	45	11963	.	+	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; product "RNA-dependent RNA polymerase"; protein_id "QNS29909.1"; exon_number "1"; 
+MT279044.1	Genbank	gene	45	4358	.	+	.	gene_id "GnGc"; gene_name "GnGc"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag ""; 
+MT279044.1	Genbank	transcript	45	4358	.	+	.	gene_id "GnGc"; gene_name "GnGc"; transcript_id "GnGc"; gbkey "mRNA"; transcript_biotype "mRNA"; product "envelope glycoprotein"; 
+MT279044.1	Genbank	exon	45	4358	.	+	.	gene_id "GnGc"; gene_name "GnGc"; transcript_id "GnGc"; transcript_biotype "mRNA"; product "envelope glycoprotein"; exon_number "1"; 
+MT279044.1	Genbank	CDS	45	4358	.	+	0	gene_id "GnGc"; gene_name "GnGc"; transcript_id "GnGc"; gbkey "CDS"; product "envelope glycoprotein"; protein_id "QNS29908.1"; exon_number "1"; 
+MT279043.1	Genbank	gene	38	1582	.	+	.	gene_id "N"; gene_name "N"; gbkey "Gene"; gene_biotype "protein_coding"; 
+MT279043.1	Genbank	transcript	38	1582	.	+	.	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "mRNA"; transcript_biotype "mRNA"; product "nucleoprotein"; 
+MT279043.1	Genbank	exon	38	1582	.	+	.	gene_id "N"; gene_name "N"; transcript_id "N"; transcript_biotype "mRNA"; product "nucleoprotein"; exon_number "1"; 
+MT279043.1	Genbank	CDS	38	1582	.	+	0	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "CDS"; product "nucleoprotein"; protein_id "QNS29907.1"; exon_number "1"; 
+###

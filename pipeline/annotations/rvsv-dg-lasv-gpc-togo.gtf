@@ -1,0 +1,24 @@
+#gtf-version 2.2
+#!genome-build-accession custom:rVSV_dG_LASV_GPC_Togo
+rVSV_dG_LASV_GPC_Togo	custom	gene	64	1332	.	+	.	gene_id "N"; gene_name "N"; gbkey "Gene"; gene_biotype "protein_coding";
+rVSV_dG_LASV_GPC_Togo	custom	transcript	64	1332	.	+	.	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "mRNA"; transcript_biotype "mRNA"; product "nucleocapsid protein";
+rVSV_dG_LASV_GPC_Togo	custom	exon	64	1332	.	+	.	gene_id "N"; gene_name "N"; transcript_id "N"; transcript_biotype "mRNA"; product "nucleocapsid protein"; exon_number "1";
+rVSV_dG_LASV_GPC_Togo	custom	CDS	64	1332	.	+	0	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "CDS"; product "nucleocapsid protein"; protein_id "NP_041712.1"; exon_number "1";
+rVSV_dG_LASV_GPC_Togo	custom	gene	1396	2193	.	+	.	gene_id "P"; gene_name "P"; gbkey "Gene"; gene_biotype "protein_coding";
+rVSV_dG_LASV_GPC_Togo	custom	transcript	1396	2193	.	+	.	gene_id "P"; gene_name "P"; transcript_id "P"; gbkey "mRNA"; transcript_biotype "mRNA"; product "phosphoprotein";
+rVSV_dG_LASV_GPC_Togo	custom	exon	1396	2193	.	+	.	gene_id "P"; gene_name "P"; transcript_id "P"; transcript_biotype "mRNA"; product "phosphoprotein"; exon_number "1";
+rVSV_dG_LASV_GPC_Togo	custom	CDS	1396	2193	.	+	0	gene_id "P"; gene_name "P"; transcript_id "P"; gbkey "CDS"; product "phosphoprotein"; protein_id "NP_041713.1"; exon_number "1";
+rVSV_dG_LASV_GPC_Togo	custom	gene	2250	2939	.	+	.	gene_id "M"; gene_name "M"; gbkey "Gene"; gene_biotype "protein_coding";
+rVSV_dG_LASV_GPC_Togo	custom	transcript	2250	2939	.	+	.	gene_id "M"; gene_name "M"; transcript_id "M"; gbkey "mRNA"; transcript_biotype "mRNA"; product "matrix";
+rVSV_dG_LASV_GPC_Togo	custom	exon	2250	2939	.	+	.	gene_id "M"; gene_name "M"; transcript_id "M"; transcript_biotype "mRNA"; product "matrix"; exon_number "1";
+rVSV_dG_LASV_GPC_Togo	custom	CDS	2250	2939	.	+	0	gene_id "M"; gene_name "M"; transcript_id "M"; gbkey "CDS"; product "matrix"; protein_id "NP_041714.1"; exon_number "1";
+rVSV_dG_LASV_GPC_Togo	custom	gene	3093	4565	.	+	.	gene_id "LASV-GPC"; gene_name "LASV-GPC"; gbkey "Gene"; gene_biotype "protein_coding";
+rVSV_dG_LASV_GPC_Togo	custom	transcript	3093	4565	.	+	.	gene_id "LASV-GPC"; gene_name "LASV-GPC"; transcript_id "LASV-GPC"; gbkey "mRNA"; transcript_biotype "mRNA"; product "Lassa virus Togo glycoprotein precursor";
+rVSV_dG_LASV_GPC_Togo	custom	exon	3093	4565	.	+	.	gene_id "LASV-GPC"; gene_name "LASV-GPC"; transcript_id "LASV-GPC"; transcript_biotype "mRNA"; product "Lassa virus Togo glycoprotein precursor"; exon_number "1";
+rVSV_dG_LASV_GPC_Togo	custom	CDS	3093	4565	.	+	0	gene_id "LASV-GPC"; gene_name "LASV-GPC"; transcript_id "LASV-GPC"; gbkey "CDS"; product "Lassa virus Togo glycoprotein precursor"; protein_id "AMR44577.1"; exon_number "1";
+VSV_NiV_Bangladesh_G.1	custom	gene	4675	11004	.	+	.	gene_id "L"; gene_name "L"; gbkey "Gene"; gene_biotype "protein_coding";
+rVSV_dG_LASV_GPC_Togo	custom	transcript	4675	11004	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase";
+rVSV_dG_LASV_GPC_Togo	custom	exon	4675	11004	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; exon_number "1";
+rVSV_dG_LASV_GPC_Togo	custom	CDS	4675	11004	.	+	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; product "RNA-dependent RNA polymerase"; protein_id "NP_041716.1"; exon_number "1";
+###
+

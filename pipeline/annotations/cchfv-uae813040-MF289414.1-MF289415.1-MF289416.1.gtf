@@ -1,0 +1,15 @@
+#gtf-version 2.2
+#!genome-build-accession custom:MF289414.1-MF289415.1-MF289416.1
+MF289414.1	Genbank	gene	89	11926	.	+	.	gene_id "L"; gene_name "L"; db_xref "NCBI_GP:ASW20656.1"; gbkey "Gene"; gene_biotype "protein_coding";  
+MF289414.1	Genbank	transcript	89	11926	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; 
+MF289414.1	Genbank	exon	89	11926	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; exon_number "1"; 
+MF289414.1	Genbank	CDS	89	11926	.	+	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; product "RNA-dependent RNA polymerase"; protein_id "ASW20656.1"; exon_number "1"; 
+MF289415.1	Genbank	gene	97	5151	.	+	.	gene_id "GnGc"; gene_name "GnGc"; db_xref "NCBI_GP:ASW20657.1"; gbkey "Gene"; gene_biotype "protein_coding"; 
+MF289415.1	Genbank	transcript	97	5151	.	+	.	gene_id "GnGc"; gene_name "GnGc"; transcript_id "GnGc"; gbkey "mRNA"; transcript_biotype "mRNA"; product "glycoprotein precursor"; 
+MF289415.1	Genbank	exon	97	5151	.	+	.	gene_id "GnGc"; gene_name "GnGc"; transcript_id "GnGc"; transcript_biotype "mRNA"; product "glycoprotein precursor"; exon_number "1"; 
+MF289415.1	Genbank	CDS	97	5151	.	+	0	gene_id "GnGc"; gene_name "GnGc"; transcript_id "GnGc"; gbkey "CDS"; product "glycoprotein precursor"; protein_id "ASW20657.1"; exon_number "1"; 
+MF289416.1	Genbank	gene	59	1507	.	+	.	gene_id "N"; gene_name "N"; db_xref "NCBI_GP:ASW20658.1"; gbkey "Gene"; gene_biotype "protein_coding"; 
+MF289416.1	Genbank	transcript	59	1507	.	+	.	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "mRNA"; transcript_biotype "mRNA"; product "nucleocapsid protein"; 
+MF289416.1	Genbank	exon	59	1507	.	+	.	gene_id "N"; gene_name "N"; transcript_id "N"; transcript_biotype "mRNA"; product "nucleocapsid protein"; exon_number "1"; 
+MF289416.1	Genbank	CDS	59	1507	.	+	0	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "CDS"; product "nucleocapsid protein"; protein_id "ASW20658.1"; exon_number "1"; 
+###

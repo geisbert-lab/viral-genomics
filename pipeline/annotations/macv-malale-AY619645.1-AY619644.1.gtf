@@ -1,0 +1,19 @@
+#gtf-version 2.2
+#!genome-build-accession custom:AY619645.1-AY619644.1
+AY619644.1	Genbank	gene	112	396	.	+	.	gene_id "Z"; gene_name "Z"; gbkey "Gene"; gene_biotype "protein_coding"; 
+AY619644.1	Genbank	transcript	112	396	.	+	.	gene_id "Z"; gene_name "Z"; transcript_id "Z"; gbkey "mRNA"; transcript_biotype "mRNA"; product "ring finger protein"; 
+AY619644.1	Genbank	exon	112	396	.	+	.	gene_id "Z"; gene_name "Z"; transcript_id "Z"; transcript_biotype "mRNA"; product "ring finger protein"; exon_number "1";
+AY619644.1	Genbank	CDS	112	396	.	+	0	gene_id "Z"; gene_name "Z"; transcript_id "Z"; gbkey "CDS"; product "ring finger protein"; exon_number "1"; protein_id "AAT40453.1";
+AY619644.1	Genbank	gene	479	7108	.	-	.	gene_id "L"; gene_name "L"; gbkey "Gene"; gene_biotype "protein_coding"; 
+AY619644.1	Genbank	transcript	479	7108	.	-	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; 
+AY619644.1	Genbank	exon	479	7108	.	-	.	gene_id "L"; gene_name "L"; transcript_id "L"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; exon_number "1";
+AY619644.1	Genbank	CDS	479	7108	.	-	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; product "RNA-dependent RNA polymerase"; exon_number "1"; protein_id "AAT40454.1";
+AY619645.1	Genbank	gene	89	1579	.	+	.	gene_id "GPC"; gene_name "GPC"; gbkey "Gene"; gene_biotype "protein_coding"; 
+AY619645.1	Genbank	transcript	89	1579	.	+	.	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; gbkey "mRNA"; transcript_biotype "mRNA"; product "glycoprotein precursor"; 
+AY619645.1	Genbank	exon	89	1579	.	+	.	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; transcript_biotype "mRNA"; product "glycoprotein precursor"; exon_number "1";
+AY619645.1	Genbank	CDS	89	1579	.	+	0	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; gbkey "CDS"; product "glycoprotein precursor"; exon_number "1"; protein_id "AAT40455.1";
+AY619645.1	Genbank	gene	1670	3364	.	-	.	gene_id "N"; gene_name "N"; gbkey "Gene"; gene_biotype "protein_coding"; 
+AY619645.1	Genbank	transcript	1670	3364	.	-	.	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "mRNA"; transcript_biotype "mRNA"; product "nucleocapsid"; 
+AY619645.1	Genbank	exon	1670	3364	.	-	.	gene_id "N"; gene_name "N"; transcript_id "N"; transcript_biotype "mRNA"; product "nucleocapsid"; exon_number "1";
+AY619645.1	Genbank	CDS	1670	3364	.	-	0	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "CDS"; product "nucleocapsid"; exon_number "1"; protein_id "AAT40456.1";
+###

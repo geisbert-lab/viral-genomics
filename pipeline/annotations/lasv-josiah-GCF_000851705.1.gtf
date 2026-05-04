@@ -1,0 +1,19 @@
+#gtf-version 2.2
+#!genome-build-accession NCBI_Assembly:GCF_000851705.1
+NC_004297.1	RefSeq	gene	66	365	.	+	.	gene_id "Z"; gene_name "Z"; db_xref "GeneID:956586"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "LASVsLgp1"; 
+NC_010563.1	RefSeq	transcript	66	365	.	+	.	gene_id "Z"; gene_name "Z"; transcript_id "Z"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "LASVsLgp1"; product "ring finger protein"; 
+NC_010563.1	RefSeq	exon	66	365	.	+	.	gene_id "Z"; gene_name "Z"; transcript_id "Z"; transcript_biotype "mRNA"; locus_tag "LASVsLgp1"; product "Z protein"; exon_number "1"; 
+NC_004297.1	RefSeq	CDS	66	365	.	+	0	gene_id "Z"; gene_name "Z"; transcript_id "Z"; gbkey "CDS"; locus_tag "LASVsLgp1"; product "ring finger protein"; protein_id "NP_694871.1"; exon_number "1"; 
+NC_004297.1	RefSeq	gene	466	7122	.	-	.	gene_id "L"; gene_name "L"; db_xref "GeneID:956587"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "LASVsLgp2"; 
+NC_004297.1	RefSeq	transcript	466	7122	.	-	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "LASVsLgp2"; product "RNA-dependent RNA polymerase"; 
+NC_004297.1	RefSeq	exon	466	7122	.	-	.	gene_id "L"; gene_name "L"; transcript_id "L"; transcript_biotype "mRNA"; locus_tag "LASVsLgp2"; product "RNA-dependent RNA polymerase"; exon_number "1"; 
+NC_004297.1	RefSeq	CDS	466	7122	.	-	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; locus_tag "LASVsLgp2"; product "RNA-dependent RNA polymerase"; protein_id "NP_694872.1"; exon_number "1"; 
+NC_004296.1	RefSeq	gene	101	1810	.	+	.	gene_id "N"; gene_name "N"; db_xref "GeneID:956584"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "LASVsSgp1"; 
+NC_004296.1	RefSeq	transcript	101	1810	.	+	.	gene_id "N"; gene_name "N"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "LASVsSgp1"; product "nucleoprotein"; 
+NC_004296.1	RefSeq	exon	101	1810	.	+	.	gene_id "N"; gene_name "N"; transcript_id "L"; transcript_biotype "mRNA"; locus_tag "LASVsSgp1"; product "nucleoprotein"; exon_number "1"; 
+NC_004296.1	RefSeq	CDS	101	1810	.	+	0	gene_id "N"; gene_name "N"; transcript_id "L"; gbkey "CDS"; locus_tag "LASVsSgp1"; product "nucleoprotein"; protein_id "NP_694869.1"; exon_number "1"; 
+NC_004296.1	RefSeq	gene	1872	3347	.	-	.	gene_id "GPC"; gene_name "GPC"; db_xref "GeneID:956585"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "LASVsSgp2"; 
+NC_004296.1	RefSeq	transcript	1872	3347	.	-	.	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "LASVsSgp2"; product "glycoprotein"; 
+NC_004296.1	RefSeq	exon	1872	3347	.	-	.	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; transcript_biotype "mRNA"; locus_tag "LASVsSgp2"; product "glycoprotein"; exon_number "1"; 
+NC_004296.1	RefSeq	CDS	1872	3347	.	-	0	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; gbkey "CDS"; locus_tag "LASVsSgp2"; product "glycoprotein"; protein_id "NP_694870.1"; exon_number "1"; 
+###

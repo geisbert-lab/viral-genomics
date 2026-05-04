@@ -1,0 +1,149 @@
+========================JOB INFO=========================
+Job ID: 3066721
+Job name: sample033-romero
+Start date: Wed Apr 29 03:42:15 CDT 2026
+Current directory: /scratch/09961/jaturcin/stockseq
+=========================================================
+
+[MSG] STEP 0: CHECKING INPUTS
+[MSG] Host index: pipeline/indices/csabaeus-ChlSab1/csabaeus-ChlSab1
+[MSG] Viral index: pipeline/indices/junv-romero-JN801476.1-JN801477.1/junv-romero-JN801476.1-JN801477.1
+[MSG] Reference FASTA: pipeline/genomes/junv-romero-JN801476.1-JN801477.1.fa
+[MSG] Reference annotation: pipeline/annotations/junv-romero-JN801476.1-JN801477.1.gtf
+[MSG] First FASTQ file: data/fastq/sample033-r1.fq.gz
+[MSG] Second FASTQ file: data/fastq/sample033-r2.fq.gz
+[MSG] Valid output directory: data
+[MSG] Working with sample: sample033-romero
+[MSG] Done checking inputs!
+
+[MSG] STEP 1: DISCARD HOST READS
+[MSG] CMD: bowtie2 --threads 8 --very-sensitive -x 'pipeline/indices/csabaeus-ChlSab1/csabaeus-ChlSab1' --un-conc-gz 'data/sample033-romero/filtered-r%.fq.gz' -1 'data/fastq/sample033-r1.fq.gz' -2 'data/fastq/sample033-r2.fq.gz' > /dev/null
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+52766625 reads; of these:
+  52766625 (100.00%) were paired; of these:
+    50791791 (96.26%) aligned concordantly 0 times
+    1404971 (2.66%) aligned concordantly exactly 1 time
+    569863 (1.08%) aligned concordantly >1 times
+    ----
+    50791791 pairs aligned concordantly 0 times; of these:
+      211481 (0.42%) aligned discordantly 1 time
+    ----
+    50580310 pairs aligned 0 times concordantly or discordantly; of these:
+      101160620 mates make up the pairs; of these:
+        100555871 (99.40%) aligned 0 times
+        424686 (0.42%) aligned exactly 1 time
+        180063 (0.18%) aligned >1 times
+4.72% overall alignment rate
+[MSG] Host alignment succeeded
+
+[MSG] STEP 2: METAGENOMIC CLASSIFICATION
+[MSG] CMD: kraken2 --threads 8 --db 'pipeline/kraken2db' --output - --report 'data/sample033-romero/metagenomics-raw.tsv' --use-names --gzip-compressed --paired 'data/sample033-romero/filtered-r1.fq.gz' 'data/sample033-romero/filtered-r2.fq.gz'
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+Loading database information... done.
+50791791 sequences (15237.54 Mbp) processed in 316.914s (9616.2 Kseq/m, 2884.86 Mbp/m).
+  50279049 sequences classified (98.99%)
+  512742 sequences unclassified (1.01%)
+[MSG] Metagenomic classification succeeded
+
+[MSG] STEP 3: ALIGN TO VIRUS
+[MSG] CMD: bowtie2 --threads 8 -x 'pipeline/indices/junv-romero-JN801476.1-JN801477.1/junv-romero-JN801476.1-JN801477.1' -1 'data/sample033-romero/filtered-r1.fq.gz' -2 'data/sample033-romero/filtered-r2.fq.gz' > 'data/sample033-romero/alignment.sam'
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+50791791 reads; of these:
+  50791791 (100.00%) were paired; of these:
+    7858390 (15.47%) aligned concordantly 0 times
+    42933401 (84.53%) aligned concordantly exactly 1 time
+    0 (0.00%) aligned concordantly >1 times
+    ----
+    7858390 pairs aligned concordantly 0 times; of these:
+      4127057 (52.52%) aligned discordantly 1 time
+    ----
+    3731333 pairs aligned 0 times concordantly or discordantly; of these:
+      7462666 mates make up the pairs; of these:
+        7096286 (95.09%) aligned 0 times
+        366380 (4.91%) aligned exactly 1 time
+        0 (0.00%) aligned >1 times
+93.01% overall alignment rate
+[MSG] Viral alignment succeeded
+
+[MSG] STEP 4: PROCESS ALIGNMENT
+[MSG] CMD: samtools view --threads 8 -b -h 'data/sample033-romero/alignment.sam' > 'data/sample033-romero/alignment-raw.bam'
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+[MSG] Compression succeeded
+[MSG] CMD: samtools fixmate --threads 8 -m 'data/sample033-romero/alignment-raw.bam' 'data/sample033-romero/alignment-fixmate.bam'
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+[MSG] Filling in coordinates succeeded
+[MSG] CMD: samtools sort --threads 8 'data/sample033-romero/alignment-fixmate.bam' > 'data/sample033-romero/alignment-sorted.bam'
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+[bam_sort_core] merging from 6 files and 8 in-memory blocks...
+[MSG] Sorting succeeded
+[MSG] CMD: samtools markdup --threads 8 'data/sample033-romero/alignment-sorted.bam' 'data/sample033-romero/alignment-dupmark.bam'
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+[MSG] Marking duplicates succeeded
+[MSG] CMD: lofreq indelqual --dindel --ref 'pipeline/genomes/junv-romero-JN801476.1-JN801477.1.fa' 'data/sample033-romero/alignment-dupmark.bam' > 'data/sample033-romero/alignment.bam'
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+[fai_load] build FASTA index.
+[MSG] Indelqual succeeded
+[MSG] CMD: samtools index 'data/sample033-romero/alignment.bam'
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+[MSG] Indexing succeeded
+
+[MSG] STEP 5: CALCULATE COVERAGE
+[MSG] CMD: samtools depth --threads 8 --excl-flags DUP -a -H 'data/sample033-romero/alignment.bam' > 'data/sample033-romero/coverage.tsv'
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+[MSG] Coverage succeeded
+
+[MSG] STEP 6: ASSEMBLE CONSENSUS
+[MSG] CMD: samtools consensus --threads 8 -a --excl-flags DUP --use-qual --min-depth 100 --call-fract 0.5 --mode simple  --output 'data/sample033-romero/consensus.fa' 'data/sample033-romero/alignment.bam'
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+[MSG] Consensus succeeded
+
+[MSG] STEP 7: QUANTIFY SNVs
+[MSG] CMD: samtools view --threads 8 --bam --excl-flags DUP 'data/sample033-romero/alignment.bam' > 'data/sample033-romero/alignment-dedup.bam'
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+[MSG] Read deduplication succeeded
+[MSG] CMD: samtools index 'data/sample033-romero/alignment-dedup.bam'
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+[MSG] Indexing deduplicated BAM succeeded
+[MSG] CMD: lofreq call-parallel --pp-threads 8 --call-indels --min-cov 100 --ref 'pipeline/genomes/junv-romero-JN801476.1-JN801477.1.fa' 'data/sample033-romero/alignment-dedup.bam' > 'data/sample033-romero/snvs.vcf'
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+INFO [2026-04-29 05:57:48,977]: Using 8 threads with following basic args: lofreq call --call-indels --min-cov 100 --ref pipeline/genomes/junv-romero-JN801476.1-JN801477.1.fa data/sample033-romero/alignment-dedup.bam
+
+INFO [2026-04-29 05:57:48,987]: Adding 24 commands to mp-pool
+Number of substitution tests performed: 31125
+Number of indel tests performed: 10404
+INFO [2026-04-29 05:58:58,912]: Executing lofreq filter -i /tmp/lofreq2_call_parallel1fb2h_yw/concat.vcf.gz -o - --snvqual-thresh 65 --indelqual-thresh 60
+
+[MSG] LoFreq succeeded
+[MSG] CMD: Rscript pipeline/visualization.r --dir 'data/sample033-romero' --annotation 'pipeline/annotations/junv-romero-JN801476.1-JN801477.1.gtf' --threshold 100
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+[MSG] Visualization succeeded
+[MSG] CMD: Rscript pipeline/mutationannotation.r --dir 'data/sample033-romero' --annotation 'pipeline/annotations/junv-romero-JN801476.1-JN801477.1.gtf' --genome 'pipeline/genomes/junv-romero-JN801476.1-JN801477.1.fa'
+INFO:    gocryptfs not found, will not be able to use gocryptfs
+Warning messages:
+1: package 'S4Vectors' was built under R version 4.4.1 
+2: multiple methods tables found for 'sort' 
+3: package 'IRanges' was built under R version 4.4.1 
+4: multiple methods tables found for 'sort' 
+Warning message:
+multiple methods tables found for 'sort' 
+Warning messages:
+1: replacing previous import 'S4Arrays::read_block' by 'DelayedArray::read_block' when loading 'SummarizedExperiment' 
+2: multiple methods tables found for 'sort' 
+3: multiple methods tables found for 'sort' 
+[MSG] SNV annotation succeeded
+
+[MSG] Pipeline complete! Printing package versions...
+
+Currently Loaded Modules:
+  1) intel/24.0            8) bowtie2/ctr-2.5.4--he96a11b_5
+  2) impi/21.11            9) samtools/ctr-1.20--h50ea8bc_0
+  3) autotools/1.4        10) kraken2/ctr-2.0.7_beta--pl526h2d50403_0
+  4) cmake/4.1.1          11) lofreq/ctr-2.1.3.1--py36_0
+  5) python/3.12.11       12) tacc-apptainer/1.4.1
+  6) TACC                 13) Rstats/4.1.3
+  7) biocontainers/0.1.0
+
+ 
+
+[MSG] JOB COMPLETE!
+

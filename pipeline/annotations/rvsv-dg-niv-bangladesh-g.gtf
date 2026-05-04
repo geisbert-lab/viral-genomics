@@ -1,0 +1,20 @@
+#gtf-version 2.2
+#!genome-build-accession custom:rVSV_dG_NiV_Bangladesh_G
+rVSV_dG_NiV_Bangladesh_G	Genbank	gene	64	1332	.	+	.	gene_id "N"; gene_name "N"; gbkey "Gene"; gene_biotype "protein_coding"; 
+rVSV_dG_NiV_Bangladesh_G	Genbank	transcript	64	1332	.	+	.	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "mRNA"; transcript_biotype "mRNA"; product "nucleocapsid protein"; 
+rVSV_dG_NiV_Bangladesh_G	Genbank	exon	64	1332	.	+	.	gene_id "N"; gene_name "N"; transcript_id "N"; transcript_biotype "mRNA"; product "nucleocapsid protein"; exon_number "1"; 
+rVSV_dG_NiV_Bangladesh_G	Genbank	CDS	64	1332	.	+	0	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "CDS"; product "nucleocapsid protein"; protein_id "AAN16980.1"; exon_number "1";
+rVSV_dG_NiV_Bangladesh_G	Genbank	gene	1396	2193	.	+	.	gene_id "P"; gene_name "P"; gbkey "Gene"; gene_biotype "protein_coding"; 
+rVSV_dG_NiV_Bangladesh_G	Genbank	transcript	1396	2193	.	+	.	gene_id "P"; gene_name "P"; transcript_id "P"; gbkey "mRNA"; transcript_biotype "mRNA"; product "phosphoprotein"; 
+rVSV_dG_NiV_Bangladesh_G	Genbank	exon	1396	2193	.	+	.	gene_id "P"; gene_name "P"; transcript_id "P"; transcript_biotype "mRNA"; product "phosphoprotein"; exon_number "1"; 
+rVSV_dG_NiV_Bangladesh_G	Genbank	CDS	1396	2193	.	+	0	gene_id "P"; gene_name "P"; transcript_id "P"; gbkey "CDS"; product "phosphoprotein"; protein_id "AAN16981.1"; exon_number "1"; 
+rVSV_dG_NiV_Bangladesh_G	Genbank	gene	3098	4906	.	+	.	gene_id "NiV-G"; gene_name "NiV-G"; gbkey "Gene"; gene_biotype "protein_coding"; 
+rVSV_dG_NiV_Bangladesh_G	Genbank	transcript	3098	4906	.	+	.	gene_id "NiV-G"; gene_name "NiV-G"; transcript_id "NiV-G"; gbkey "mRNA"; transcript_biotype "mRNA"; product "NiV attachment glycoprotein G";  
+rVSV_dG_NiV_Bangladesh_G	Genbank	exon	3098	4906	.	+	.	gene_id "NiV-G"; gene_name "NiV-G"; transcript_id "NiV-G"; transcript_biotype "mRNA"; product "NiV attachment glycoprotein G"; exon_number "1"; 
+rVSV_dG_NiV_Bangladesh_G	Genbank	CDS	3098	4906	.	+	0	gene_id "NiV-G"; gene_name "NiV-G"; transcript_id "NiV-G"; gbkey "CDS"; product "NiV attachment glycoprotein G"; protein_id "AAY43916.1"; exon_number "1"; 
+VSV_NiV_Bangladesh_G.1	Genbank	gene	5027	11356	.	+	.	gene_id "L"; gene_name "L"; gbkey "Gene"; gene_biotype "protein_coding"; 
+rVSV_dG_NiV_Bangladesh_G	Genbank	transcript	5027	11356	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; 
+rVSV_dG_NiV_Bangladesh_G	Genbank	exon	5027	11356	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; exon_number "1"; 
+rVSV_dG_NiV_Bangladesh_G	Genbank	CDS	5027	11356	.	+	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; product "RNA-dependent RNA polymerase"; protein_id "AAN16984.1"; exon_number "1"; 
+###
+

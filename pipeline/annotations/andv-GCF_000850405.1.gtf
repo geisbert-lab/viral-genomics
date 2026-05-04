@@ -1,0 +1,19 @@
+#gtf-version 2.2
+#!genome-build-accession NCBI_Assembly:GCF_000850405.1
+NC_003468.2	RefSeq	gene	36	6497	.	+	.	gene_id "L"; gene_name "L"; db_xref "GeneID:991234"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "ANDVsLgp1"; 
+NC_003468.2	RefSeq	transcript	36	6497	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "ANDVsLgp1"; product "RNA polymerase";
+NC_003468.2	RefSeq	exon	36	6497	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; transcript_biotype "mRNA"; locus_tag "ANDVsLgp1"; product "RNA polymerase"; exon_number "1";
+NC_003468.2	RefSeq	CDS	36	6497	.	+	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; locus_tag "ANDVsLgp1"; product "RNA polymerase"; protein_id "NP_604473.1"; exon_number "1"; 
+NC_003467.2	RefSeq	gene	52	3468	.	+	.	gene_id "G1G2"; gene_name "G1G2"; db_xref "GeneID:991233"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "ANDVsMgp1"; 
+NC_003467.2	RefSeq	transcript	52	3468	.	+	.	gene_id "G1G2"; gene_name "G1G2"; transcript_id "G1G2"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "ANDVsMgp1"; product "G1 and G2 surface glycoprotein precursor";
+NC_003467.2	RefSeq	exon	52	3468	.	+	.	gene_id "G1G2"; gene_name "G1G2"; transcript_id "G1G2"; transcript_biotype "mRNA"; locus_tag "ANDVsMgp1"; product "G1 and G2 surface glycoprotein precursor"; exon_number "1";
+NC_003467.2	RefSeq	CDS	52	3468	.	+	0	gene_id "G1G2"; gene_name "G1G2"; transcript_id "G1G2"; gbkey "CDS"; locus_tag "ANDVsMgp1"; product "G1 and G2 surface glycoprotein precursor"; protein_id "NP_604472.1"; exon_number "1"; 
+NC_003466.1	RefSeq	gene	43	1329	.	+	.	gene_id "NP"; gene_name "NP"; db_xref "GeneID:991232"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "ANDVsSgp1"; 
+NC_003466.1	RefSeq	transcript	43	1329	.	+	.	gene_id "NP"; gene_name "NP"; transcript_id "NP"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "ANDVsSgp1"; product "nucleocapsid protein";
+NC_003466.1	RefSeq	exon	43	1329	.	+	.	gene_id "NP"; gene_name "NP"; transcript_id "NP"; transcript_biotype "mRNA"; locus_tag "ANDVsSgp1"; product "nucleocapsid protein"; exon_number "1";
+NC_003466.1	RefSeq	CDS	43	1329	.	+	0	gene_id "NP"; gene_name "NP"; transcript_id "NP"; gbkey "CDS"; locus_tag "ANDVsSgp1"; product "nucleocapsid protein"; protein_id "NP_604471.1"; exon_number "1"; 
+NC_003466.1	RefSeq	gene	122	313	.	+	.	gene_id "NSP"; gene_name "NSP"; db_xref "GeneID:11293630"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "ANDVsSgp2"; 
+NC_003466.1	RefSeq	transcript	122	313	.	+	.	gene_id "NSP"; gene_name "NSP"; transcript_id "NSP"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "ANDVsSgp2"; product "putative nonstructural protein";
+NC_003466.1	RefSeq	exon	122	313	.	+	.	gene_id "NSP"; gene_name "NSP"; transcript_id "NSP"; transcript_biotype "mRNA"; locus_tag "ANDVsSgp2"; product "putative nonstructural protein"; exon_number "1";
+NC_003466.1	RefSeq	CDS	122	313	.	+	0	gene_id "NSP"; gene_name "NSP"; transcript_id "NSP"; gbkey "CDS"; locus_tag "ANDVsSgp2"; product "putative nonstructural protein"; protein_id "YP_004928151.1"; exon_number "1"; 
+###

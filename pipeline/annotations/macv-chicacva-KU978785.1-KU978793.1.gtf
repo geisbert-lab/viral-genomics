@@ -1,0 +1,19 @@
+#gtf-version 2.2
+#!genome-build-accession custom:KU978785.1-KU978793.1
+KU978785.1	Genbank	gene	97	381	.	+	.	gene_id "Z"; gene_name "Z"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "VD95_00003";
+KU978785.1	Genbank	transcript	97	381	.	+	.	gene_id "Z"; gene_name "Z"; transcript_id "Z"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "VD95_00003"; product "zinc finger protein"; 
+KU978785.1	Genbank	exon	97	381	.	+	.	gene_id "Z"; gene_name "Z"; transcript_id "Z"; transcript_biotype "mRNA"; locus_tag "VD95_00003"; product "zinc finger protein"; exon_number "1";
+KU978785.1	Genbank	CDS	97	381	.	+	0	gene_id "Z"; gene_name "Z"; transcript_id "Z"; gbkey "CDS"; locus_tag "VD95_00003"; product "zinc finger protein"; exon_number "1"; protein_id "AMZ00414.1";
+KU978785.1	Genbank	gene	466	7095	.	-	.	gene_id "L"; gene_name "L"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "VD95_00004";
+KU978785.1	Genbank	transcript	466	7095	.	-	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "VD95_00004"; product "RNA-dependent RNA polymerase"; 
+KU978785.1	Genbank	exon	466	7095	.	-	.	gene_id "L"; gene_name "L"; transcript_id "L"; transcript_biotype "mRNA"; locus_tag "VD95_00004"; product "RNA-dependent RNA polymerase"; exon_number "1";
+KU978785.1	Genbank	CDS	466	7095	.	-	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; locus_tag "VD95_00004"; product "RNA-dependent RNA polymerase"; exon_number "1"; protein_id "AMZ00415.1";
+KU978793.1	Genbank	gene	90	1580	.	+	.	gene_id "GPC"; gene_name "GPC"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "VD95_00001";
+KU978793.1	Genbank	transcript	90	1580	.	+	.	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "VD95_00001"; product "glycoprotein precursor"; 
+KU978793.1	Genbank	exon	90	1580	.	+	.	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; transcript_biotype "mRNA"; locus_tag "VD95_00001"; product "glycoprotein precursor"; exon_number "1";
+KU978793.1	Genbank	CDS	90	1580	.	+	0	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; gbkey "CDS"; locus_tag "VD95_00001"; product "glycoprotein precursor"; exon_number "1"; protein_id "AMZ00416.1";
+KU978793.1	Genbank	gene	1671	3365	.	-	.	gene_id "N"; gene_name "N"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "VD95_00002";
+KU978793.1	Genbank	transcript	1671	3365	.	-	.	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "VD95_00002"; product "nucleocapsid"; 
+KU978793.1	Genbank	exon	1671	3365	.	-	.	gene_id "N"; gene_name "N"; transcript_id "N"; transcript_biotype "mRNA"; locus_tag "VD95_00002"; product "nucleocapsid"; exon_number "1";
+KU978793.1	Genbank	CDS	1671	3365	.	-	0	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "CDS"; locus_tag "VD95_00002"; product "nucleocapsid"; exon_number "1"; protein_id "AMZ00417.1";
+###

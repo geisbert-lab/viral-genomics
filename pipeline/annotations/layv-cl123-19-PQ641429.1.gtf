@@ -1,0 +1,38 @@
+#gtf-version 2.2
+#!genome-build-accession Genbank:PQ641429.1
+PQ641429.1	Genbank	gene	141	1760	.	+	.	gene_id "N"; gene_name "N"; gbkey "Gene"; gene_biotype "protein_coding"; 
+PQ641429.1	Genbank	transcript	141	1760	.	+	.	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "mRNA"; transcript_biotype "mRNA"; product "nucleocapsid protein"; 
+PQ641429.1	Genbank	exon	141	1760	.	+	.	gene_id "N"; gene_name "N"; transcript_id "N"; transcript_biotype "mRNA"; product "nucleocapsid protein"; exon_number "1"; 
+PQ641429.1	Genbank	CDS	141	1760	.	+	0	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "CDS"; product "nucleocapsid protein"; protein_id "XLS83380.1"; exon_number "1";
+
+PQ641429.1	Genbank	gene	2198	4282	.	+	.	gene_id "P/V/W/C"; gene_name "P/V/W/C"; gbkey "Gene"; gene_biotype "protein_coding"; 
+PQ641429.1	Genbank	transcript	2198	4282	.	+	.	gene_id "P/V/W/C"; gene_name "P/V/W/C"; transcript_id "P/V/W/C"; gbkey "mRNA"; transcript_biotype "mRNA"; product "phophoprotein, nonstructural protein V, nonstructural protein W, and nonstructural protein C"; note "unedited mRNA"; 
+PQ641429.1	Genbank	exon	2198	4282	.	+	.	gene_id "P/V/W"; gene_name "P/V/W"; transcript_id "P/V/W"; transcript_biotype "mRNA"; product "phophoprotein, nonstructural protein V, and nonstructural protein W"; note "unedited mRNA"; exon_number "1"; 
+PQ641429.1	Genbank	CDS	2198	4282	.	+	0	gene_id "P"; gene_name "P"; transcript_id "P"; gbkey "CDS"; product "phosphoprotein"; protein_id "XLS83381.1"; exon_number "1"; 
+PQ641429.1	Genbank	CDS	2198	3424	.	+	0	gene_id "V"; gene_name "V"; transcript_id "V"; gbkey "CDS"; product "nonstructural protein V"; protein_id "XLS83382.1"; exon_number "1"; exception "RNA editing"; 
+PQ641429.1	Genbank	CDS	3424	3591	.	+	0	gene_id "V"; gene_name "V"; transcript_id "V"; gbkey "CDS"; product "nonstructural protein V"; protein_id "XLS83382.1"; exon_number "1"; exception "RNA editing"; 
+PQ641429.1	Genbank	CDS	2198	3424	.	+	0	gene_id "W"; gene_name "W"; transcript_id "W"; gbkey "CDS"; product "nonstructural protein w"; protein_id "XLS83383.1"; exon_number "1"; exception "RNA editing"; 
+PQ641429.1	Genbank	CDS	3423	3536	.	+	0	gene_id "W"; gene_name "W"; transcript_id "W"; gbkey "CDS"; product "nonstructural protein w"; protein_id "XLS83383.1"; exon_number "1"; exception "RNA editing"; 
+PQ641429.1	Genbank	exon	2232	2765	.	+	0	gene_id "C"; gene_name "C"; transcript_id "C"; transcript_biotype "mRNA"; product "nonstructural protein C"; exon_number "2"; 
+PQ641429.1	Genbank	CDS	2232	2765	.	+	0	gene_id "C"; gene_name "C"; transcript_id "C"; gbkey "CDS"; product "nonstructural protein C"; protein_id "XLS83384.1"; exon_number "2"; 
+PQ641429.1	Genbank	gene	4479	5501	.	+	.	gene_id "M"; gene_name "M"; gbkey "Gene"; gene_biotype "protein_coding"; 
+PQ641429.1	Genbank	transcript	4479	5501	.	+	.	gene_id "M"; gene_name "M"; transcript_id "M"; gbkey "mRNA"; transcript_biotype "mRNA"; product "matrix protein"; 
+PQ641429.1	Genbank	exon	4479	5501	.	+	.	gene_id "M"; gene_name "M"; transcript_id "M"; transcript_biotype "mRNA"; product "matrix protein"; exon_number "1"; 
+PQ641429.1	Genbank	CDS	4479	5501	.	+	0	gene_id "M"; gene_name "M"; transcript_id "M"; gbkey "CDS"; product "matrix protein"; protein_id "XLS83385.1"; exon_number "1"; 
+PQ641429.1	Genbank	gene	5991	6356	.	+	.	gene_id "h"; gene_name "h"; gbkey "Gene"; gene_biotype "protein_coding"; 
+PQ641429.1	Genbank	transcript	5991	6356	.	+	.	gene_id "h"; gene_name "h"; transcript_id "h"; gbkey "mRNA"; transcript_biotype "mRNA"; product "hypothetical protein"; 
+PQ641429.1	Genbank	exon	5991	6356	.	+	.	gene_id "h"; gene_name "h"; transcript_id "h"; transcript_biotype "mRNA"; product "hypothetical protein"; exon_number "1"; 
+PQ641429.1	Genbank	CDS	5991	6356	.	+	0	gene_id "h"; gene_name "h"; transcript_id "h"; gbkey "CDS"; product "hypothetical protein"; protein_id "XLS83389.1"; exon_number "1"; 
+PQ641429.1	Genbank	gene	6909	8543	.	+	.	gene_id "F"; gene_name "F"; gbkey "Gene"; gene_biotype "protein_coding"; 
+PQ641429.1	Genbank	transcript	6909	8543	.	+	.	gene_id "F"; gene_name "F"; transcript_id "F"; gbkey "mRNA"; transcript_biotype "mRNA"; product "fusion glycoprotein"; 
+PQ641429.1	Genbank	exon	6909	8543	.	+	.	gene_id "F"; gene_name "F"; transcript_id "F"; transcript_biotype "mRNA"; product "fusion glycoprotein"; exon_number "1"; 
+PQ641429.1	Genbank	CDS	6909	8543	.	+	0	gene_id "F"; gene_name "F"; transcript_id "F"; gbkey "CDS"; product "fusion glycoprotein"; protein_id "XLS83386.1"; exon_number "1"; 
+PQ641429.1	Genbank	gene	8829	10703	.	+	.	gene_id "G"; gene_name "G"; gbkey "Gene"; gene_biotype "protein_coding"; 
+PQ641429.1	Genbank	transcript	8829	10703	.	+	.	gene_id "G"; gene_name "G"; transcript_id "G"; gbkey "mRNA"; transcript_biotype "mRNA"; product "attachment glycoprotein";  
+PQ641429.1	Genbank	exon	8829	10703	.	+	.	gene_id "G"; gene_name "G"; transcript_id "G"; transcript_biotype "mRNA"; product "attachment glycoprotein"; exon_number "1"; 
+PQ641429.1	Genbank	CDS	8829	10703	.	+	0	gene_id "G"; gene_name "G"; transcript_id "G"; gbkey "CDS"; product "attachment glycoprotein"; protein_id "XLS83387.1"; exon_number "1"; 
+PQ641429.1	Genbank	gene	11487	18320	.	+	.	gene_id "L"; gene_name "L"; gbkey "Gene"; gene_biotype "protein_coding"; 
+PQ641429.1	Genbank	transcript	11487	18320	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; 
+PQ641429.1	Genbank	exon	11487	18320	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; exon_number "1"; 
+PQ641429.1	Genbank	CDS	11487	18320	.	+	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; product "RNA-dependent RNA polymerase"; protein_id "XLS83388.1"; exon_number "1"; 
+###

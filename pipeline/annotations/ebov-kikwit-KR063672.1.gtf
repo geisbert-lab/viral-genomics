@@ -1,0 +1,35 @@
+#gtf-version 2.2
+#!genome-build-accession custom:KR063672.1
+KR063672.1	Genbank	gene	469	2688	.	+	.	gene_id "NP"; gene_name "NP"; db_xref "NCBI_GP:AKB09551.1"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "DH33_45401gpNP"; 
+KR063672.1	Genbank	transcript	469	2688	.	+	.	gene_id "NP"; gene_name "NP"; transcript_id "NP"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "DH33_45401gpNP"; product "nucleoprotein"; 
+KR063672.1	Genbank	exon	469	2688	.	+	.	gene_id "NP"; gene_name "NP"; transcript_id "NP"; transcript_biotype "mRNA"; locus_tag "DH33_45401gpNP"; product "nucleoprotein"; exon_number "1"; 
+KR063672.1	Genbank	CDS	469	2688	.	+	0	gene_id "NP"; gene_name "NP"; transcript_id "NP"; gbkey "CDS"; locus_tag "DH33_45401gpNP"; product "nucleoprotein"; protein_id "AKB09551.1"; exon_number "1"; 
+KR063672.1	Genbank	gene	3128	4150	.	+	.	gene_id "VP35"; gene_name "VP35"; db_xref "NCBI_GP:AKB09552.1"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "DH33_45401gpVP35"; 
+KR063672.1	Genbank	transcript	3128	4150	.	+	.	gene_id "VP35"; gene_name "VP35"; transcript_id "VP35"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "DH33_45401gpVP35"; product "polymerase cofactor VP35"; 
+KR063672.1	Genbank	exon	3128	4150	.	+	.	gene_id "VP35"; gene_name "VP35"; transcript_id "VP35"; transcript_biotype "mRNA"; locus_tag "DH33_45401gpVP35"; product "polymerase cofactor VP35"; exon_number "1"; 
+KR063672.1	Genbank	CDS	3128	4150	.	+	0	gene_id "VP35"; gene_name "VP35"; transcript_id "VP35"; gbkey "CDS"; locus_tag "DH33_45401gpVP35"; product "polymerase cofactor VP35"; protein_id "AKB09552.1"; exon_number "1"; 
+KR063672.1	Genbank	gene	4478	5458	.	+	.	gene_id "VP40"; gene_name "VP40"; db_xref "NCBI_GP:AKB09553.1"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "DH33_45401gpVP40"; 
+KR063672.1	Genbank	transcript	4478	5458	.	+	.	gene_id "VP40"; gene_name "VP40"; transcript_id "VP40"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "DH33_45401gpVP40"; product "matrix protein VP40"; 
+KR063672.1	Genbank	exon	4478	5458	.	+	.	gene_id "VP40"; gene_name "VP40"; transcript_id "VP40"; transcript_biotype "mRNA"; locus_tag "DH33_45401gpVP40"; product "matrix protein VP40"; exon_number "1"; 
+KR063672.1	Genbank	CDS	4478	5458	.	+	0	gene_id "VP40"; gene_name "VP40"; transcript_id "VP40"; gbkey "CDS"; locus_tag "DH33_45401gpVP40"; product "matrix protein VP40"; protein_id "AKB09553.1"; exon_number "1"; 
+KR063672.1	Genbank	gene	6038	8067	.	+	.	gene_id "GP"; gene_name "GP"; db_xref "NCBI_GP:AKB09556.1"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "DH33_45401gpGP"; 
+KR063672.1	Genbank	transcript	6038	8067	.	+	.	gene_id "GP"; gene_name "GP"; transcript_id "GP"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "DH33_45401gpGP"; product "structural and secreted glycoproteins"; note "unedited mRNA"; 
+KR063672.1	Genbank	exon	6038	8067	.	+	.	gene_id "GP"; gene_name "GP"; transcript_id "GP"; transcript_biotype "mRNA"; locus_tag "DH33_45401gpGP"; product "structural and secreted glycoproteins"; note "unedited mRNA"; exon_number "1"; 
+KR063672.1	Genbank	CDS	6038	6922	.	+	0	gene_id "GP"; gene_name "GP"; transcript_id "GP"; gbkey "CDS"; locus_tag "DH33_45401gpGP"; product "structural glycoprotein"; protein_id "AKB09556.1"; exon_number "1"; exception "RNA editing"; 
+KR063672.1	Genbank	CDS	6922	8067	.	+	0	gene_id "GP"; gene_name "GP"; transcript_id "GP"; gbkey "CDS"; locus_tag "DH33_45401gpGP"; product "structural glycoprotein"; protein_id "AKB09556.1"; exon_number "1"; exception "RNA editing"; 
+KR063672.1	Genbank	CDS	6038	7132	.	+	0	gene_id "GP"; gene_name "GP"; transcript_id "GP"; gbkey "CDS"; locus_tag "DH33_45401gpsGP"; product "secreted glycoprotein"; protein_id "AKB09555.1"; exon_number "1"; 
+KR063672.1	Genbank	CDS	6038	6922	.	+	0	gene_id "GP"; gene_name "GP"; transcript_id "GP"; gbkey "CDS"; locus_tag "DH33_45401gpSsGP"; product "small secreted glycoprotein"; protein_id "AKB09554.1"; exon_number "1"; exception "RNA editing"; 
+KR063672.1	Genbank	CDS	6920	6932	.	+	0	gene_id "GP"; gene_name "GP"; transcript_id "GP"; gbkey "CDS"; locus_tag "DH33_45401gpSsGP"; product "small secreted glycoprotein"; protein_id "AKB09554.1"; exon_number "1"; exception "RNA editing"; 
+KR063672.1	Genbank	gene	8508	9374	.	+	.	gene_id "VP30"; gene_name "VP30"; db_xref "NCBI_GP:AKB09557.1"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "DH33_45401gpVP30"; 
+KR063672.1	Genbank	transcript	8508	9374	.	+	.	gene_id "VP30"; gene_name "VP30"; transcript_id "VP30"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "DH33_45401gpVP30"; product "transcription activator and minor nucleoprotein VP30"; 
+KR063672.1	Genbank	exon	8508	9374	.	+	.	gene_id "VP30"; gene_name "VP30"; transcript_id "VP30"; transcript_biotype "mRNA"; locus_tag "DH33_45401gpVP30"; product "transcription activator and minor nucleoprotein VP30"; exon_number "1"; 
+KR063672.1	Genbank	CDS	8508	9374	.	+	0	gene_id "VP30"; gene_name "VP30"; transcript_id "VP30"; gbkey "CDS"; locus_tag "DH33_45401gpVP30"; product "transcription activator and minor nucleoprotein VP30"; protein_id "AKB09557.1"; exon_number "1"; 
+KR063672.1	Genbank	gene	10344	11099	.	+	.	gene_id "VP24"; gene_name "VP24"; db_xref "NCBI_GP:AKB09558.1"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "DH33_45401gpVP24"; 
+KR063672.1	Genbank	transcript	10344	11099	.	+	.	gene_id "VP24"; gene_name "VP24"; transcript_id "VP24"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "DH33_45401gpVP24"; product "membrane-associated protein VP24"; 
+KR063672.1	Genbank	exon	10344	11099	.	+	.	gene_id "VP24"; gene_name "VP24"; transcript_id "VP24"; transcript_biotype "mRNA"; locus_tag "DH33_45401gpVP24"; product "membrane-associated protein VP24"; exon_number "1"; 
+KR063672.1	Genbank	CDS	10344	11099	.	+	0	gene_id "VP24"; gene_name "VP24"; transcript_id "VP24"; gbkey "CDS"; locus_tag "DH33_45401gpVP24"; product "membrane-associated protein VP24"; protein_id "AKB09558.1"; exon_number "1"; 
+KR063672.1	Genbank	gene	11580	18218	.	+	.	gene_id "L"; gene_name "L"; db_xref "NCBI_GP:AKB09559.1"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "DH33_45401gpL"; 
+KR063672.1	Genbank	transcript	11580	18218	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "DH33_45401gpL"; product "RNA-directed RNA polymerase L"; 
+KR063672.1	Genbank	exon	11580	18218	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; transcript_biotype "mRNA"; locus_tag "DH33_45401gpL"; product "RNA-directed RNA polymerase L"; exon_number "1"; 
+KR063672.1	Genbank	CDS	11580	18218	.	+	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; locus_tag "DH33_45401gpL"; product "RNA-directed RNA polymerase L"; protein_id "AKB09559.1"; exon_number "1"; 
+###

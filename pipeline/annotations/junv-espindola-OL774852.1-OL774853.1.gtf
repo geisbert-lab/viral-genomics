@@ -1,0 +1,19 @@
+#gtf-version 2.2
+#!genome-build-accession custom:OL774852.1-OL774853.1
+OL774852.1	RefSeq	gene	79	363	.	+	.	gene_id "Z"; gene_name "Z"; gbkey "Gene"; gene_biotype "protein_coding"; 
+OL774852.1	RefSeq	transcript	79	363	.	+	.	gene_id "Z"; gene_name "Z"; transcript_id "Z"; gbkey "mRNA"; transcript_biotype "mRNA"; product "ring finger protein"; 
+OL774852.1	RefSeq	exon	79	363	.	+	.	gene_id "Z"; gene_name "Z"; transcript_id "Z"; transcript_biotype "mRNA"; product "Z protein"; exon_number "1"; 
+OL774852.1	RefSeq	CDS	79	363	.	+	0	gene_id "Z"; gene_name "Z"; transcript_id "Z"; gbkey "CDS"; product "ring finger protein"; protein_id "WAD86876.1"; exon_number "1"; 
+OL774852.1	RefSeq	gene	447	7079	.	-	.	gene_id "L"; gene_name "L"; gbkey "Gene"; gene_biotype "protein_coding"; 
+OL774852.1	RefSeq	transcript	447	7079	.	-	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; 
+OL774852.1	RefSeq	exon	447	7079	.	-	.	gene_id "L"; gene_name "L"; transcript_id "L"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; exon_number "1"; 
+OL774852.1	RefSeq	CDS	447	7079	.	-	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; product "RNA-dependent RNA polymerase"; protein_id "WAD86877.1"; exon_number "1"; 
+OL774853.1	RefSeq	gene	1626	3320	.	-	.	gene_id "N"; gene_name "N"; gbkey "Gene"; gene_biotype "protein_coding"; 
+OL774853.1	RefSeq	transcript	1626	3320	.	-	.	gene_id "N"; gene_name "N"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; product "nucleoprotein"; 
+OL774853.1	RefSeq	exon	1626	3320	.	-	.	gene_id "N"; gene_name "N"; transcript_id "L"; transcript_biotype "mRNA"; product "nucleoprotein"; exon_number "1"; 
+OL774853.1	RefSeq	CDS	1626	3320	.	-	0	gene_id "N"; gene_name "N"; transcript_id "L"; gbkey "CDS"; product "nucleoprotein"; protein_id "WAD86879.1"; exon_number "1"; 
+OL774853.1	RefSeq	gene	77	1534	.	+	.	gene_id "GPC"; gene_name "GPC"; gbkey "Gene"; gene_biotype "protein_coding"; 
+OL774853.1	RefSeq	transcript	77	1534	.	+	.	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; gbkey "mRNA"; transcript_biotype "mRNA"; product "glycoprotein"; 
+OL774853.1	RefSeq	exon	77	1534	.	+	.	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; transcript_biotype "mRNA"; product "glycoprotein"; exon_number "1"; 
+OL774853.1	RefSeq	CDS	77	1534	.	+	0	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; gbkey "CDS"; product "glycoprotein"; protein_id "WAD86878.1"; exon_number "1"; 
+###

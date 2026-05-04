@@ -1,0 +1,19 @@
+#gtf-version 2.2
+#!genome-build-accession LASVNigeria2395
+Nigeria2395_L	RefSeq	gene	81	380	.	+	.	gene_id "Z"; gene_name "Z"; gbkey "Gene"; gene_biotype "protein_coding"; 
+Nigeria2395_L	RefSeq	transcript	81	380	.	+	.	gene_id "Z"; gene_name "Z"; transcript_id "Z"; gbkey "mRNA"; transcript_biotype "mRNA"; product "ring finger protein"; 
+Nigeria2395_L	RefSeq	exon	81	380	.	+	.	gene_id "Z"; gene_name "Z"; transcript_id "Z"; transcript_biotype "mRNA"; product "Z protein"; exon_number "1"; 
+Nigeria2395_L	RefSeq	CDS	81	380	.	+	0	gene_id "Z"; gene_name "Z"; transcript_id "Z"; gbkey "CDS"; product "ring finger protein"; protein_id "LASVNigeria2395Z"; exon_number "1"; 
+Nigeria2395_L	RefSeq	gene	475	7137	.	-	.	gene_id "L"; gene_name "L"; gbkey "Gene"; gene_biotype "protein_coding"; 
+Nigeria2395_L	RefSeq	transcript	475	7137	.	-	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; 
+Nigeria2395_L	RefSeq	exon	475	7137	.	-	.	gene_id "L"; gene_name "L"; transcript_id "L"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; exon_number "1"; 
+Nigeria2395_L	RefSeq	CDS	475	7137	.	-	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; product "RNA-dependent RNA polymerase"; protein_id "LASVNigeria2395L"; exon_number "1"; 
+Nigeria2395_S	RefSeq	gene	1606	3315	.	-	.	gene_id "N"; gene_name "N"; gbkey "Gene"; gene_biotype "protein_coding"; 
+Nigeria2395_S	RefSeq	transcript	1606	3315	.	-	.	gene_id "N"; gene_name "N"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; product "nucleoprotein"; 
+Nigeria2395_S	RefSeq	exon	1606	3315	.	-	.	gene_id "N"; gene_name "N"; transcript_id "L"; transcript_biotype "mRNA"; product "nucleoprotein"; exon_number "1"; 
+Nigeria2395_S	RefSeq	CDS	1606	3315	.	-	0	gene_id "N"; gene_name "N"; transcript_id "L"; gbkey "CDS"; product "nucleoprotein"; protein_id "LASVNigeria2395N"; exon_number "1"; 
+Nigeria2395_S	RefSeq	gene	66	1538	.	+	.	gene_id "GPC"; gene_name "GPC"; gbkey "Gene"; gene_biotype "protein_coding"; 
+Nigeria2395_S	RefSeq	transcript	66	1538	.	+	.	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; gbkey "mRNA"; transcript_biotype "mRNA"; product "glycoprotein"; 
+Nigeria2395_S	RefSeq	exon	66	1538	.	+	.	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; transcript_biotype "mRNA"; product "glycoprotein"; exon_number "1"; 
+Nigeria2395_S	RefSeq	CDS	66	1538	.	+	0	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; gbkey "CDS"; product "glycoprotein"; protein_id "LASVNigeria2395GP"; exon_number "1"; 
+###

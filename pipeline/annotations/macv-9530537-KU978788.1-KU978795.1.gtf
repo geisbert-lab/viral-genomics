@@ -1,0 +1,19 @@
+#gtf-version 2.2
+#!genome-build-accession custom:KU978788.1-KU978795.1
+KU978788.1	Genbank	gene	117	401	.	+	.	gene_id "Z"; gene_name "Z"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "AVI34_00001";
+KU978788.1	Genbank	transcript	117	401	.	+	.	gene_id "Z"; gene_name "Z"; transcript_id "Z"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "AVI34_00001"; product "ring finger protein"; 
+KU978788.1	Genbank	exon	117	401	.	+	.	gene_id "Z"; gene_name "Z"; transcript_id "Z"; transcript_biotype "mRNA"; locus_tag "AVI34_00001"; product "ring finger protein"; exon_number "1";
+KU978788.1	Genbank	CDS	117	401	.	+	0	gene_id "Z"; gene_name "Z"; transcript_id "Z"; gbkey "CDS"; locus_tag "AVI34_00001"; product "ring finger protein"; exon_number "1"; protein_id "AMZ00402.1";
+KU978788.1	Genbank	gene	485	7114	.	-	.	gene_id "L"; gene_name "L"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "AVI34_00002"; 
+KU978788.1	Genbank	transcript	485	7114	.	-	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "AVI34_00002"; product "RNA-dependent RNA polymerase"; 
+KU978788.1	Genbank	exon	485	7114	.	-	.	gene_id "L"; gene_name "L"; transcript_id "L"; transcript_biotype "mRNA"; locus_tag "AVI34_00002"; product "RNA-dependent RNA polymerase"; exon_number "1";
+KU978788.1	Genbank	CDS	485	7114	.	-	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; locus_tag "AVI34_00002"; product "RNA-dependent RNA polymerase"; exon_number "1"; protein_id "AMZ00403.1";
+KU978795.1	Genbank	gene	76	1770	.	+	.	gene_id "N"; gene_name "N"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "AVI34_00003"; 
+KU978795.1	Genbank	transcript	76	1770	.	+	.	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "AVI34_00003"; product "nucleocapsid"; 
+KU978795.1	Genbank	exon	76	1770	.	+	.	gene_id "N"; gene_name "N"; transcript_id "N"; transcript_biotype "mRNA"; locus_tag "AVI34_00003"; product "nucleocapsid"; exon_number "1";
+KU978795.1	Genbank	CDS	76	1770	.	+	0	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "CDS"; locus_tag "AVI34_00003"; product "nucleocapsid"; exon_number "1"; protein_id "AMZ00404.1";
+KU978795.1	Genbank	gene	1836	3326	.	-	.	gene_id "GPC"; gene_name "GPC"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "AVI34_00004"; 
+KU978795.1	Genbank	transcript	1836	3326	.	-	.	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "AVI34_00004"; product "glycoprotein precursor"; 
+KU978795.1	Genbank	exon	1836	3326	.	-	.	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; transcript_biotype "mRNA"; locus_tag "AVI34_00004"; product "glycoprotein precursor"; exon_number "1";
+KU978795.1	Genbank	CDS	1836	3326	.	-	0	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; gbkey "CDS"; locus_tag "AVI34_00004"; product "glycoprotein precursor"; exon_number "1"; protein_id "AMZ00405.1";
+###

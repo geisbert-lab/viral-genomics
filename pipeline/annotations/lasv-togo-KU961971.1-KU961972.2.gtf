@@ -1,0 +1,19 @@
+#gtf-version 2.2
+#!genome-build-accession custom:KU961971.1-KU961972.2
+KU961972.2	RefSeq	gene	99	398	.	+	.	gene_id "Z"; gene_name "Z"; db_xref "NCBI_GP:AMR44579.1"; gbkey "Gene"; gene_biotype "protein_coding"; 
+KU961972.2	RefSeq	transcript	99	398	.	+	.	gene_id "Z"; gene_name "Z"; transcript_id "Z"; gbkey "mRNA"; transcript_biotype "mRNA"; product "ring finger protein"; 
+KU961972.2	RefSeq	exon	99	398	.	+	.	gene_id "Z"; gene_name "Z"; transcript_id "Z"; transcript_biotype "mRNA"; product "Z protein"; exon_number "1"; 
+KU961972.2	RefSeq	CDS	99	398	.	+	0	gene_id "Z"; gene_name "Z"; transcript_id "Z"; gbkey "CDS"; product "ring finger protein"; protein_id "AMR44579.1"; exon_number "1"; 
+KU961972.2	RefSeq	gene	499	7170	.	-	.	gene_id "L"; gene_name "L"; db_xref "NCBI_GP:AMR44580.2"; gbkey "Gene"; gene_biotype "protein_coding"; 
+KU961972.2	RefSeq	transcript	499	7170	.	-	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; 
+KU961972.2	RefSeq	exon	499	7170	.	-	.	gene_id "L"; gene_name "L"; transcript_id "L"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; exon_number "1"; 
+KU961972.2	RefSeq	CDS	499	7170	.	-	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; product "RNA-dependent RNA polymerase"; protein_id "AMR44580.2"; exon_number "1"; 
+KU961971.1	RefSeq	gene	1590	3299	.	-	.	gene_id "N"; gene_name "N"; db_xref "NCBI_GP:AMR44578.1"; gbkey "Gene"; gene_biotype "protein_coding"; 
+KU961971.1	RefSeq	transcript	1590	3299	.	-	.	gene_id "N"; gene_name "N"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; product "nucleoprotein"; 
+KU961971.1	RefSeq	exon	1590	3299	.	-	.	gene_id "N"; gene_name "N"; transcript_id "L"; transcript_biotype "mRNA"; product "nucleoprotein"; exon_number "1"; 
+KU961971.1	RefSeq	CDS	1590	3299	.	-	0	gene_id "N"; gene_name "N"; transcript_id "L"; gbkey "CDS"; product "nucleoprotein"; protein_id "AMR44578.1"; exon_number "1"; 
+KU961971.1	RefSeq	gene	57	1531	.	+	.	gene_id "GPC"; gene_name "GPC"; db_xref "NCBI_GP:AMR44577.1"; gbkey "Gene"; gene_biotype "protein_coding"; 
+KU961971.1	RefSeq	transcript	57	1531	.	+	.	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; gbkey "mRNA"; transcript_biotype "mRNA"; product "glycoprotein"; 
+KU961971.1	RefSeq	exon	57	1531	.	+	.	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; transcript_biotype "mRNA"; product "glycoprotein"; exon_number "1"; 
+KU961971.1	RefSeq	CDS	57	1529	.	+	0	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; gbkey "CDS"; product "glycoprotein"; protein_id "AMR44577.1"; exon_number "1"; 
+###

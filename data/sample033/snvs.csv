@@ -1,0 +1,211 @@
+"Segment","NT.position","NT.ref","NT.alt","Frequency","Type","InDel","Gene.ID","Gene.name","Protein.ID","Product","AA.pos","AA.ref","AA.alt"
+"JN801476.1",11,"A","G",0.008721,"Noncoding",FALSE,,,,,,,
+"JN801476.1",15,"T","C",0.020833,"Noncoding",FALSE,,,,,,,
+"JN801476.1",51,"T","C",0.140953,"Noncoding",FALSE,,,,,,,
+"JN801476.1",80,"G","A",0.00282,"Noncoding",FALSE,,,,,,,
+"JN801476.1",130,"C","T",0.002407,"Nonsynonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",16,"Q","*"
+"JN801476.1",141,"G","A",0.001853,"Synonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",,,
+"JN801476.1",157,"G","A",0.002108,"Nonsynonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",25,"A","T"
+"JN801476.1",173,"C","T",0.001726,"Nonsynonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",30,"A","V"
+"JN801476.1",188,"T","C",0.002999,"Nonsynonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",35,"I","T"
+"JN801476.1",210,"T","A",0.003318,"Synonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",,,
+"JN801476.1",236,"C","T",0.002137,"Nonsynonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",51,"A","V"
+"JN801476.1",255,"C","T",0.001656,"Synonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",,,
+"JN801476.1",282,"G","A",0.001972,"Synonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",,,
+"JN801476.1",324,"CT","C",0.002522,"Nonsynonymous",TRUE,"GPC","GPC","AFA53093.1","glycoprotein",82,"S","P"
+"JN801476.1",351,"T","C",0.278893,"Synonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",,,
+"JN801476.1",363,"C","T",0.086894,"Synonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",,,
+"JN801476.1",389,"AG","A",0.007064,"Nonsynonymous",TRUE,"GPC","GPC","AFA53093.1","glycoprotein",104,"G","A"
+"JN801476.1",421,"G","A",0.004371,"Nonsynonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",113,"D","N"
+"JN801476.1",430,"G","A",0.07422,"Nonsynonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",116,"E","K"
+"JN801476.1",431,"A","T",0.901059,"Nonsynonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",116,"E","V"
+"JN801476.1",448,"T","C",0.039676,"Nonsynonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",122,"Y","H"
+"JN801476.1",458,"T","C",0.00993,"Nonsynonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",125,"I","T"
+"JN801476.1",472,"G","T",0.00367,"Nonsynonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",130,"A","S"
+"JN801476.1",473,"C","T",0.002306,"Nonsynonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",130,"A","V"
+"JN801476.1",492,"CA","C",0.002175,"Nonsynonymous",TRUE,"GPC","GPC","AFA53093.1","glycoprotein",138,"S","V"
+"JN801476.1",543,"A","G",0.002353,"Synonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",,,
+"JN801476.1",549,"T","C",0.015316,"Synonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",,,
+"JN801476.1",584,"G","A",0.00201,"Nonsynonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",167,"R","H"
+"JN801476.1",636,"T","C",0.001453,"Synonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",,,
+"JN801476.1",668,"G","A",0.002676,"Nonsynonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",195,"G","D"
+"JN801476.1",713,"G","A",0.001812,"Nonsynonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",210,"G","D"
+"JN801476.1",733,"G","A",0.00171,"Nonsynonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",217,"A","T"
+"JN801476.1",734,"C","T",0.003248,"Nonsynonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",217,"A","V"
+"JN801476.1",777,"T","C",0.002356,"Synonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",,,
+"JN801476.1",784,"T","C",0.004506,"Synonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",,,
+"JN801476.1",847,"T","C",0.003669,"Nonsynonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",255,"S","P"
+"JN801476.1",868,"T","C",0.002438,"Nonsynonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",262,"S","P"
+"JN801476.1",922,"G","A",0.00217,"Nonsynonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",280,"A","T"
+"JN801476.1",954,"A","G",0.003077,"Synonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",,,
+"JN801476.1",963,"C","T",0.001769,"Synonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",,,
+"JN801476.1",1003,"CT","C",0.003713,"Nonsynonymous",TRUE,"GPC","GPC","AFA53093.1","glycoprotein",308,"F","L"
+"JN801476.1",1036,"C","T",0.003443,"Synonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",,,
+"JN801476.1",1070,"T","C",0.002647,"Nonsynonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",329,"M","T"
+"JN801476.1",1167,"T","C",0.285725,"Synonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",,,
+"JN801476.1",1204,"T","C",0.003347,"Synonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",,,
+"JN801476.1",1215,"C","T",0.002396,"Synonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",,,
+"JN801476.1",1219,"T","C",0.023646,"Synonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",,,
+"JN801476.1",1263,"T","C",0.005225,"Synonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",,,
+"JN801476.1",1332,"C","A",0.026487,"Synonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",,,
+"JN801476.1",1338,"T","G",0.008458,"Synonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",,,
+"JN801476.1",1350,"A","G",0.016097,"Synonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",,,
+"JN801476.1",1415,"T","C",0.01042,"Nonsynonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",444,"I","T"
+"JN801476.1",1425,"C","T",0.365692,"Synonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",,,
+"JN801476.1",1485,"C","T",0.003306,"Synonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",,,
+"JN801476.1",1497,"G","A",0.006224,"Synonymous",FALSE,"GPC","GPC","AFA53093.1","glycoprotein",,,
+"JN801476.1",1571,"G","A",0.005007,"Noncoding",FALSE,,,,,,,
+"JN801476.1",1591,"GC","G",0.00272,"Noncoding",TRUE,,,,,,,
+"JN801476.1",1612,"C","T",0.003733,"Noncoding",FALSE,,,,,,,
+"JN801476.1",1620,"TG","T",0.008561,"Noncoding",TRUE,,,,,,,
+"JN801476.1",1641,"G","A",0.003155,"Nonsynonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",563,"A","V"
+"JN801476.1",1666,"G","A",0.002421,"Synonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",,,
+"JN801476.1",1694,"T","C",0.007091,"Synonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",,,
+"JN801476.1",1740,"C","T",0.001963,"Nonsynonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",530,"C","Y"
+"JN801476.1",1747,"G","A",0.001396,"Synonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",,,
+"JN801476.1",1774,"C","T",0.001566,"Nonsynonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",519,"A","T"
+"JN801476.1",1852,"A","G",0.001778,"Nonsynonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",493,"Y","H"
+"JN801476.1",1898,"A","G",0.001388,"Synonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",,,
+"JN801476.1",2024,"T","C",0.004701,"Synonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",,,
+"JN801476.1",2034,"G","A",0.001871,"Nonsynonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",432,"A","V"
+"JN801476.1",2066,"A","G",0.001678,"Synonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",,,
+"JN801476.1",2155,"C","T",0.002447,"Nonsynonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",392,"A","T"
+"JN801476.1",2169,"T","C",0.004693,"Nonsynonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",387,"D","G"
+"JN801476.1",2180,"T","C",0.004137,"Synonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",,,
+"JN801476.1",2221,"TC","T",0.003213,"Nonsynonymous",TRUE,"N","N","AFA53094.1","nucleoprotein",370,"K","N"
+"JN801476.1",2269,"C","T",0.0019,"Nonsynonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",354,"A","T"
+"JN801476.1",2304,"C","T",0.002855,"Nonsynonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",342,"R","K"
+"JN801476.1",2305,"T","C",0.002133,"Nonsynonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",342,"R","G"
+"JN801476.1",2360,"G","A",0.001703,"Synonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",,,
+"JN801476.1",2361,"C","T",0.00158,"Nonsynonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",323,"G","D"
+"JN801476.1",2392,"G","A",0.002304,"Nonsynonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",313,"P","S"
+"JN801476.1",2486,"T","C",0.004273,"Synonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",,,
+"JN801476.1",2489,"A","G",0.001057,"Synonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",,,
+"JN801476.1",2503,"AT","A",0.001099,"Nonsynonymous",TRUE,"N","N","AFA53094.1","nucleoprotein",275,"K","N"
+"JN801476.1",2528,"T","A",0.021958,"Synonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",,,
+"JN801476.1",2540,"G","A",0.005355,"Synonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",,,
+"JN801476.1",2579,"T","C",0.002124,"Synonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",,,
+"JN801476.1",2593,"C","T",0.002183,"Nonsynonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",246,"A","T"
+"JN801476.1",2620,"A","G",0.003381,"Nonsynonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",237,"S","P"
+"JN801476.1",2754,"C","T",0.004549,"Nonsynonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",192,"S","N"
+"JN801476.1",2803,"C","T",0.001558,"Nonsynonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",176,"A","T"
+"JN801476.1",2808,"A","G",0.002337,"Nonsynonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",174,"V","A"
+"JN801476.1",2831,"C","T",0.003201,"Synonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",,,
+"JN801476.1",2846,"A","G",0.001855,"Synonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",,,
+"JN801476.1",2859,"C","T",0.002185,"Nonsynonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",157,"R","K"
+"JN801476.1",2861,"C","CA",0.001062,"Nonsynonymous",TRUE,"N","N","AFA53094.1","nucleoprotein",157,"R","E"
+"JN801476.1",2881,"T","C",0.003898,"Nonsynonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",150,"T","A"
+"JN801476.1",2901,"A","G",0.001715,"Nonsynonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",143,"L","P"
+"JN801476.1",2911,"A","G",0.001911,"Synonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",,,
+"JN801476.1",2924,"T","C",0.02225,"Synonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",,,
+"JN801476.1",2927,"A","G",0.001393,"Synonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",,,
+"JN801476.1",2951,"A","G",0.001954,"Synonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",,,
+"JN801476.1",3043,"TC","T",0.005612,"Nonsynonymous",TRUE,"N","N","AFA53094.1","nucleoprotein",96,"R","G"
+"JN801476.1",3067,"C","T",0.003753,"Nonsynonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",88,"V","I"
+"JN801476.1",3127,"T","TCCCCAGATCTC",0.003978,"Nonsynonymous",TRUE,"N","N","AFA53094.1","nucleoprotein",68,"R","E"
+"JN801476.1",3149,"T","C",0.003516,"Synonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",,,
+"JN801476.1",3175,"G","T",0.013218,"Synonymous",FALSE,"N","N","AFA53094.1","nucleoprotein",,,
+"JN801476.1",3398,"A","G",0.026723,"Noncoding",FALSE,,,,,,,
+"JN801476.1",3399,"T","C",0.104832,"Noncoding",FALSE,,,,,,,
+"JN801477.1",6,"C","A",0.10119,"Noncoding",FALSE,,,,,,,
+"JN801477.1",136,"T","A",0.013617,"Nonsynonymous",FALSE,"Z","Z","AFA53095.1","ring finger protein",18,"V","D"
+"JN801477.1",137,"C","T",0.061212,"Synonymous",FALSE,"Z","Z","AFA53095.1","ring finger protein",,,
+"JN801477.1",344,"G","A",0.227725,"Synonymous",FALSE,"Z","Z","AFA53095.1","ring finger protein",,,
+"JN801477.1",391,"TGACCCCCCGGGGGGCCCCCATGGG","T",0.068377,"Noncoding",TRUE,,,,,,,
+"JN801477.1",550,"T","A",0.053039,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",2178,"L","F"
+"JN801477.1",723,"A","G",0.006141,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",918,"C","T",0.063271,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",2056,"D","N"
+"JN801477.1",930,"A","T",0.067733,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",2052,"L","I"
+"JN801477.1",1236,"T","C",0.054796,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1950,"I","V"
+"JN801477.1",1282,"A","T",0.005878,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",1349,"A","G",0.091186,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1912,"F","S"
+"JN801477.1",1428,"T","C",0.007428,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1886,"N","D"
+"JN801477.1",1540,"C","T",0.00201,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1848,"M","I"
+"JN801477.1",1545,"C","T",0.003689,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1847,"V","I"
+"JN801477.1",1561,"C","T",0.002183,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",1611,"T","C",0.104165,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1825,"S","G"
+"JN801477.1",1654,"G","T",0.005612,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",1830,"C","T",0.006353,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1752,"A","T"
+"JN801477.1",1876,"C","T",0.003432,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",1942,"G","T",0.002101,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1714,"F","L"
+"JN801477.1",1981,"C","T",0.009358,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",2003,"TC","T",0.002698,"Nonsynonymous",TRUE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1694,"E","S"
+"JN801477.1",2088,"AT","A",0.003901,"Nonsynonymous",TRUE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1665,"K","N"
+"JN801477.1",2303,"T","C",0.225675,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1594,"K","R"
+"JN801477.1",2371,"C","CACACTTACTCCCCAT",0.017683,"Nonsynonymous",TRUE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1572,"L","W"
+"JN801477.1",2417,"TC","T",0.005264,"Nonsynonymous",TRUE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1556,"D","T"
+"JN801477.1",2430,"C","T",0.001557,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1552,"A","T"
+"JN801477.1",2473,"T","G",0.017017,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1537,"E","D"
+"JN801477.1",2503,"G","A",0.003992,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",2558,"AT","A",0.00252,"Nonsynonymous",TRUE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1509,"I","S"
+"JN801477.1",2588,"T","TAC",0.004974,"Nonsynonymous",TRUE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1499,"K","S"
+"JN801477.1",2664,"A","G",0.003756,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1474,"Y","H"
+"JN801477.1",2710,"A","G",0.008291,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",2965,"C","A",0.003681,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",2982,"T","C",0.009004,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1368,"I","V"
+"JN801477.1",3055,"C","T",0.014212,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",3202,"C","T",0.002525,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",3213,"GC","G",0.001568,"Nonsynonymous",TRUE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1291,"Q","R"
+"JN801477.1",3252,"G","A",0.001691,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1278,"Q","*"
+"JN801477.1",3265,"C","T",0.002444,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",3331,"C","T",0.004468,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",3336,"A","AC",0.001943,"Nonsynonymous",TRUE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1250,"L","V"
+"JN801477.1",3360,"C","T",0.003854,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1242,"A","T"
+"JN801477.1",3493,"T","C",0.00635,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",3542,"T","C",0.002218,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1181,"D","G"
+"JN801477.1",3553,"A","G",0.002168,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",3581,"C","T",0.607963,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1168,"R","H"
+"JN801477.1",3617,"C","T",0.120977,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1156,"R","K"
+"JN801477.1",3618,"T","C",0.172172,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1156,"R","G"
+"JN801477.1",3854,"G","A",0.002156,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1077,"A","V"
+"JN801477.1",3855,"C","T",0.001683,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1077,"A","T"
+"JN801477.1",3862,"C","T",0.002495,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",3871,"G","A",0.002301,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",3874,"T","A",0.002516,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",1070,"E","D"
+"JN801477.1",3889,"C","T",0.002817,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",4027,"T","C",0.002359,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",4084,"C","T",0.002772,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",4224,"A","ACTTTTGAC",0.004354,"Nonsynonymous",TRUE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",954,"L","V"
+"JN801477.1",4225,"C","CTTTTG",0.008079,"Nonsynonymous",TRUE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",954,"L","K"
+"JN801477.1",4266,"C","T",0.004758,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",940,"E","K"
+"JN801477.1",4268,"T","C",0.004897,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",939,"D","G"
+"JN801477.1",4278,"G","A",0.004547,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",4308,"CT","C",0.002102,"Nonsynonymous",TRUE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",926,"V","L"
+"JN801477.1",4367,"C","T",0.003184,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",906,"G","D"
+"JN801477.1",4443,"T","C",0.002139,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",881,"R","G"
+"JN801477.1",4490,"T","C",0.003347,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",865,"D","G"
+"JN801477.1",4506,"C","T",0.003283,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",860,"D","N"
+"JN801477.1",4617,"TG","T",0.002101,"Nonsynonymous",TRUE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",823,"K","S"
+"JN801477.1",4870,"AG","A",0.004929,"Nonsynonymous",TRUE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",738,"P","L"
+"JN801477.1",4891,"A","G",0.002107,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",4893,"C","T",0.068865,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",731,"D","N"
+"JN801477.1",4948,"C","T",0.001704,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",4990,"A","G",0.0037,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",5008,"G","A",0.001923,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",5039,"T","C",0.003612,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",682,"E","G"
+"JN801477.1",5076,"C","T",0.002153,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",670,"A","T"
+"JN801477.1",5176,"A","G",0.00314,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",5283,"TA","T",0.00175,"Nonsynonymous",TRUE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",600,"F","L"
+"JN801477.1",5403,"T","TGATA",0.002589,"Nonsynonymous",TRUE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",561,"N","Y"
+"JN801477.1",5403,"TGATA","T",0.010789,"Nonsynonymous",TRUE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",559,"S","L"
+"JN801477.1",5403,"T","A",0.005882,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",561,"N","Y"
+"JN801477.1",5416,"G","GA",0.002155,"Nonsynonymous",TRUE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",557,"Y","L"
+"JN801477.1",5479,"T","C",0.011097,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",535,"I","M"
+"JN801477.1",5524,"T","C",0.033295,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",5644,"A","G",0.004317,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",5808,"C","G",0.006014,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",426,"D","H"
+"JN801477.1",5977,"A","G",0.034625,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",6067,"T","C",0.137354,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",6098,"G","A",0.042169,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",329,"A","V"
+"JN801477.1",6188,"G","A",0.005501,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",299,"A","V"
+"JN801477.1",6198,"A","G",0.004599,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",296,"Y","H"
+"JN801477.1",6221,"G","A",0.004784,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",288,"A","V"
+"JN801477.1",6354,"A","C",0.076669,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",244,"F","V"
+"JN801477.1",6603,"G","T",0.004476,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",6630,"G","T",0.002463,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",152,"L","I"
+"JN801477.1",6702,"A","G",0.007592,"Nonsynonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",128,"S","P"
+"JN801477.1",6790,"G","A",0.005727,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",6808,"T","C",0.007103,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",6919,"A","G",0.005051,"Synonymous",FALSE,"L","L","AFA53096.1","RNA-dependent RNA polymerase",,,
+"JN801477.1",7098,"T","C",0.047803,"Noncoding",FALSE,,,,,,,
+"JN801477.1",7106,"T","C",0.089005,"Noncoding",FALSE,,,,,,,

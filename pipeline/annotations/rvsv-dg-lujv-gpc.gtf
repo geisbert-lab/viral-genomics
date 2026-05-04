@@ -1,0 +1,20 @@
+#gtf-version 2.2
+#!genome-build-accession custom:rVSV_dG_LUJV_GPC
+rVSV_dG_LUJV_GPC	custom	gene	462	1730	.	+	.	gene_id "N"; gene_name "N"; gbkey "Gene"; gene_biotype "protein_coding"; 
+rVSV_dG_LUJV_GPC	custom	transcript	462	1730	.	+	.	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "mRNA"; transcript_biotype "mRNA"; product "nucleocapsid protein"; 
+rVSV_dG_LUJV_GPC	custom	exon	462	1730	.	+	.	gene_id "N"; gene_name "N"; transcript_id "N"; transcript_biotype "mRNA"; product "nucleocapsid protein"; exon_number "1"; 
+rVSV_dG_LUJV_GPC	custom	CDS	462	1730	.	+	0	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "CDS"; product "nucleocapsid protein"; protein_id "AAN16980.1"; exon_number "1";
+rVSV_dG_LUJV_GPC	custom	gene	1794	2591	.	+	.	gene_id "P"; gene_name "P"; gbkey "Gene"; gene_biotype "protein_coding"; 
+rVSV_dG_LUJV_GPC	custom	transcript	1794	2591	.	+	.	gene_id "P"; gene_name "P"; transcript_id "P"; gbkey "mRNA"; transcript_biotype "mRNA"; product "phosphoprotein"; 
+rVSV_dG_LUJV_GPC	custom	exon	1794	2591	.	+	.	gene_id "P"; gene_name "P"; transcript_id "P"; transcript_biotype "mRNA"; product "phosphoprotein"; exon_number "1"; 
+rVSV_dG_LUJV_GPC	custom	CDS	1794	2591	.	+	0	gene_id "P"; gene_name "P"; transcript_id "P"; gbkey "CDS"; product "phosphoprotein"; protein_id "AAN16981.1"; exon_number "1"; 
+rVSV_dG_LUJV_GPC	custom	gene	3472	4836	.	+	.	gene_id "LUJV-GPC"; gene_name "LUJV-GPC"; gbkey "Gene"; gene_biotype "protein_coding"; 
+rVSV_dG_LUJV_GPC	custom	transcript	3472	4836	.	+	.	gene_id "LUJV-GPC"; gene_name "LUJV-GPC"; transcript_id "LUJV-GPC"; gbkey "mRNA"; transcript_biotype "mRNA"; product "Lujo virus glycoprotein precursor";  
+rVSV_dG_LUJV_GPC	custom	exon	3472	4836	.	+	.	gene_id "LUJV-GPC"; gene_name "LUJV-GPC"; transcript_id "LUJV-GPC"; transcript_biotype "mRNA"; product "Lujo virus glycoprotein precursor"; exon_number "1"; 
+rVSV_dG_LUJV_GPC	custom	CDS	3472	4836	.	+	0	gene_id "LUJV-GPC"; gene_name "LUJV-GPC"; transcript_id "LUJV-GPC"; gbkey "CDS"; product "Lujo virus glycoprotein precursor"; protein_id "YP_002929490.1"; exon_number "1"; 
+VSV_NiV_Bangladesh_G.1	custom	gene	4956	11285	.	+	.	gene_id "L"; gene_name "L"; gbkey "Gene"; gene_biotype "protein_coding"; 
+rVSV_dG_LUJV_GPC	custom	transcript	4956	11285	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; 
+rVSV_dG_LUJV_GPC	custom	exon	4956	11285	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; transcript_biotype "mRNA"; product "RNA-dependent RNA polymerase"; exon_number "1"; 
+rVSV_dG_LUJV_GPC	custom	CDS	4956	11285	.	+	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; product "RNA-dependent RNA polymerase"; protein_id "AAN16984.1"; exon_number "1"; 
+###
+

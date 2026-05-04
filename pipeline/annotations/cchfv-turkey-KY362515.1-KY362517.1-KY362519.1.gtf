@@ -1,0 +1,15 @@
+#gtf-version 2.2
+#!genome-build-accession custom:KY362515.1-KY362517.1-KY362519.1
+KY362515.1	Genbank	gene	135	11825	.	+	.	gene_id "L"; gene_name "L"; db_xref "NCBI_GP:ARB18230.1"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag ""; 
+KY362515.1	Genbank	transcript	135	11825	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag ""; product "RNA-dependent RNA polymerase"; 
+KY362515.1	Genbank	exon	135	11825	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; transcript_biotype "mRNA"; locus_tag ""; product "RNA-dependent RNA polymerase"; exon_number "1"; 
+KY362515.1	Genbank	CDS	135	11825	.	+	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; locus_tag ""; product "RNA-dependent RNA polymerase"; protein_id "ARB18230.1"; exon_number "1"; 
+KY362517.1	Genbank	gene	47	1495	.	+	.	gene_id "N"; gene_name "N"; db_xref "NCBI_GP:ARB18231.1"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag ""; 
+KY362517.1	Genbank	transcript	47	1495	.	+	.	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag ""; product "nucleocapsid protein"; 
+KY362517.1	Genbank	exon	47	1495	.	+	.	gene_id "N"; gene_name "N"; transcript_id "N"; transcript_biotype "mRNA"; locus_tag ""; product "nucleocapsid protein"; exon_number "1"; 
+KY362517.1	Genbank	CDS	47	1495	.	+	0	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "CDS"; locus_tag ""; product "nucleocapsid protein"; protein_id "ARB18231.1"; exon_number "1"; 
+KY362519.1	Genbank	gene	56	5122	.	+	.	gene_id "GnGc"; gene_name "GnGc"; db_xref "NCBI_GP:ARB18232.1"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag ""; 
+KY362519.1	Genbank	transcript	56	5122	.	+	.	gene_id "GnGc"; gene_name "GnGc"; transcript_id "GnGc"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag ""; product "glycoprotein precursor"; 
+KY362519.1	Genbank	exon	56	5122	.	+	.	gene_id "GnGc"; gene_name "GnGc"; transcript_id "GnGc"; transcript_biotype "mRNA"; locus_tag ""; product "glycoprotein precursor"; exon_number "1"; 
+KY362519.1	Genbank	CDS	56	5122	.	+	0	gene_id "GnGc"; gene_name "GnGc"; transcript_id "GnGc"; gbkey "CDS"; locus_tag ""; product "glycoprotein precursor"; protein_id "ARB18232.1"; exon_number "1"; 
+###

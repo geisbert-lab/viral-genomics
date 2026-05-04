@@ -1,0 +1,19 @@
+#gtf-version 2.2
+#!genome-build-accession NCBI_Assembly:GCF_000853725.1
+NC_005079.1	RefSeq	gene	98	382	.	+	.	gene_id "Z"; gene_name "Z"; db_xref "GeneID:2943095"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "MACVsLgp1"; 
+NC_005079.1	RefSeq	transcript	98	382	.	+	.	gene_id "Z"; gene_name "Z"; transcript_id "Z"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "MACVsLgp1"; product "zinc finger protein"; 
+NC_005079.1	RefSeq	exon	98	382	.	+	.	gene_id "Z"; gene_name "Z"; transcript_id "Z"; transcript_biotype "mRNA"; locus_tag "MACVsLgp1"; product "zinc finger protein"; exon_number "1"; 
+NC_005079.1	RefSeq	CDS	98	382	.	+	0	gene_id "Z"; gene_name "Z"; transcript_id "Z"; gbkey "CDS"; locus_tag "MACVsLgp1"; product "zinc finger protein"; protein_id "NP_899214.1"; exon_number "1"; 
+NC_005079.1	RefSeq	gene	465	7094	.	-	.	gene_id "L"; gene_name "L"; db_xref "GeneID:2943094"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "MACVsLgp2"; 
+NC_005079.1	RefSeq	transcript	465	7094	.	-	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "MACVsLgp2"; product "RNA-dependent RNA polymerase"; 
+NC_005079.1	RefSeq	exon	465	7094	.	-	.	gene_id "L"; gene_name "L"; transcript_id "L"; transcript_biotype "mRNA"; locus_tag "MACVsLgp2"; product "RNA-dependent RNA polymerase"; exon_number "1"; 
+NC_005079.1	RefSeq	CDS	465	7094	.	-	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; locus_tag "MACVsLgp2"; product "RNA-dependent RNA polymerase"; protein_id "NP_899215.1"; exon_number "1"; 
+NC_005078.1	RefSeq	gene	89	1579	.	+	.	gene_id "GPC"; gene_name "GPC"; db_xref "GeneID:2943093"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "MACVsSgp1"; 
+NC_005078.1	RefSeq	transcript	89	1579	.	+	.	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "MACVsSgp1"; product "glycoprotein precursor"; 
+NC_005078.1	RefSeq	exon	89	1579	.	+	.	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; transcript_biotype "mRNA"; locus_tag "MACVsSgp1"; product "glycoprotein precursor"; exon_number "1"; 
+NC_005078.1	RefSeq	CDS	89	1579	.	+	0	gene_id "GPC"; gene_name "GPC"; transcript_id "GPC"; gbkey "CDS"; locus_tag "MACVsSgp1"; product "glycoprotein precursor"; protein_id "NP_899212.1"; exon_number "1"; 
+NC_005078.1	RefSeq	gene	1670	3364	.	-	.	gene_id "N"; gene_name "N"; db_xref "GeneID:2943092"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "MACVsSgp2"; 
+NC_005078.1	RefSeq	transcript	1670	3364	.	-	.	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "mRNA"; transcript_biotype "mRNA"; locus_tag "MACVsSgp2"; product "nucleocapsid protein"; 
+NC_005078.1	RefSeq	exon	1670	3364	.	-	.	gene_id "N"; gene_name "N"; transcript_id "N"; transcript_biotype "mRNA"; locus_tag "MACVsSgp2"; product "nucleocapsid protein"; exon_number "1"; 
+NC_005078.1	RefSeq	CDS	1670	3364	.	-	0	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "CDS"; locus_tag "MACVsSgp2"; product "nucleocapsid protein"; protein_id "NP_899213.1"; exon_number "1"; 
+###

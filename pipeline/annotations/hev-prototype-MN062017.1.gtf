@@ -1,0 +1,33 @@
+#gtf-version 2.2
+#!genome-build-accession custom:MN062017.1
+MN062017.1	RefSeq	gene	113	1711	.	+	.	gene_id "N"; gene_name "N"; db_xref "NCBI_GP:QDK64763.1"; gbkey "Gene"; gene_biotype "protein_coding"; 
+MN062017.1	RefSeq	transcript	113	1711	.	+	.	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "mRNA"; transcript_biotype "mRNA"; product "nucleocapsid"; 
+MN062017.1	RefSeq	exon	113	1711	.	+	.	gene_id "N"; gene_name "N"; transcript_id "N"; transcript_biotype "mRNA"; product "nucleocapsid"; exon_number "1"; 
+MN062017.1	RefSeq	CDS	113	1711	.	+	0	gene_id "N"; gene_name "N"; transcript_id "N"; gbkey "CDS"; product "nucleocapsid"; protein_id "QDK64763.1"; exon_number "1"; 
+MN062017.1	RefSeq	gene	2388	4511	.	+	.	gene_id "P/V/W/C"; gene_name "P/V/W/C"; db_xref "NCBI_GP:QDK64764.1"; gbkey "Gene"; gene_biotype "protein_coding"; 
+MN062017.1	RefSeq	transcript	2388	4511	.	+	.	gene_id "P/V/W/C"; gene_name "P/V/W/C"; transcript_id "P/V/W/C"; gbkey "mRNA"; transcript_biotype "mRNA"; product "phophoprotein, nonstructural protein V, nonstructural protein W, and nonstructural protein C"; note "unedited mRNA"; 
+MN062017.1	RefSeq	exon	2388	4511	.	+	.	gene_id "P/V/W"; gene_name "P/V/W"; transcript_id "P/V/W"; transcript_biotype "mRNA"; product "phophoprotein, nonstructural protein V, and nonstructural protein W"; note "unedited mRNA"; exon_number "1"; 
+MN062017.1	RefSeq	CDS	2388	4511	.	+	0	gene_id "P"; gene_name "P"; transcript_id "P"; gbkey "CDS"; product "phosphoprotein"; protein_id "QDK64764.1"; exon_number "1";
+MN062017.1	RefSeq	CDS	2388	3599	.	+	0	gene_id "V"; gene_name "V"; transcript_id "V"; gbkey "CDS"; product "nonstructural protein V"; protein_id "CUSTOM_V.1"; exon_number "1"; exception "RNA editing"; 
+MN062017.1	RefSeq	CDS	3599	3760	.	+	0	gene_id "V"; gene_name "V"; transcript_id "V"; gbkey "CDS"; product "nonstructural protein V"; protein_id "CUSTOM_V.1"; exon_number "1"; exception "RNA editing"; 
+MN062017.1	RefSeq	CDS	2388	3599	.	+	0	gene_id "W"; gene_name "W"; transcript_id "W"; gbkey "CDS"; product "nonstructural protein W"; protein_id "CUSTOM_W.1"; exon_number "1"; exception "RNA editing"; 
+MN062017.1	RefSeq	CDS	3598	3732	.	+	0	gene_id "W"; gene_name "W"; transcript_id "W"; gbkey "CDS"; product "nonstructural protein W"; protein_id "CUSTOM_W.1"; exon_number "1"; exception "RNA editing"; 
+MN062017.1	RefSeq	exon	2410	2910	.	+	.	gene_id "C"; gene_name "C"; transcript_id "C"; transcript_biotype "mRNA"; product "nonstructural protein C"; exon_number "2"; 
+MN062017.1	RefSeq	CDS	2410	2910	.	+	0	gene_id "C"; gene_name "C"; transcript_id "C"; gbkey "CDS"; product "nonstructural protein C"; protein_id "CUSTOM_C.1"; exon_number "2"; 
+MN062017.1	RefSeq	gene	5084	6142	.	+	.	gene_id "M"; gene_name "M"; db_xref "NCBI_GP:QDK64765.1"; gbkey "Gene"; gene_biotype "protein_coding"; 
+MN062017.1	RefSeq	transcript	5084	6142	.	+	.	gene_id "M"; gene_name "M"; transcript_id "M"; gbkey "mRNA"; transcript_biotype "mRNA"; product "matrix protein"; 
+MN062017.1	RefSeq	exon	5084	6142	.	+	.	gene_id "M"; gene_name "M"; transcript_id "M"; transcript_biotype "mRNA"; product "matrix protein"; exon_number "1"; 
+MN062017.1	RefSeq	CDS	5084	6142	.	+	0	gene_id "M"; gene_name "M"; transcript_id "M"; gbkey "CDS"; product "matrix protein"; protein_id "QDK64765.1"; exon_number "1"; 
+MN062017.1	RefSeq	gene	6618	8258	.	+	.	gene_id "F"; gene_name "F"; db_xref "NCBI_GP:QDK64766.1"; gbkey "Gene"; gene_biotype "protein_coding"; 
+MN062017.1	RefSeq	transcript	6618	8258	.	+	.	gene_id "F"; gene_name "F"; transcript_id "F"; gbkey "mRNA"; transcript_biotype "mRNA"; product "fusion protein"; 
+MN062017.1	RefSeq	exon	6618	8258	.	+	.	gene_id "F"; gene_name "F"; transcript_id "F"; transcript_biotype "mRNA"; product "fusion protein"; exon_number "1"; 
+MN062017.1	RefSeq	CDS	6618	8258	.	+	0	gene_id "F"; gene_name "F"; transcript_id "F"; gbkey "CDS"; product "fusion protein"; protein_id "QDK64766.1"; exon_number "1"; 
+MN062017.1	RefSeq	gene	8913	10727	.	+	.	gene_id "G"; gene_name "G"; db_xref "NCBI_GP:QDK64767.1"; gbkey "Gene"; gene_biotype "protein_coding"; 
+MN062017.1	RefSeq	transcript	8913	10727	.	+	.	gene_id "G"; gene_name "G"; transcript_id "G"; gbkey "Gene"; gene_biotype "protein_coding"; product "glycoprotein"; 
+MN062017.1	RefSeq	exon	8913	10727	.	+	.	gene_id "G"; gene_name "G"; transcript_id "G"; gene_biotype "protein_coding"; product "glycoprotein"; exon_number "1"; 
+MN062017.1	RefSeq	CDS	8913	10727	.	+	0	gene_id "G"; gene_name "G"; transcript_id "G"; gbkey "CDS"; product "glycoprotein"; protein_id "QDK64767.1"; exon_number "1"; 
+MN062017.1	RefSeq	gene	11247	18201	.	+	.	gene_id "L"; gene_name "L"; db_xref "NCBI_GP:QDK64768.1"; gbkey "Gene"; gene_biotype "protein_coding"; 
+MN062017.1	RefSeq	transcript	11247	18201	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "Gene"; gene_biotype "protein_coding"; product "RNA-dependent RNA polymerase"; 
+MN062017.1	RefSeq	exon	11247	18201	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; gene_biotype "protein_coding"; product "RNA-dependent RNA polymerase"; exon_number "1"; 
+MN062017.1	RefSeq	CDS	11400	18134	.	+	0	gene_id "L"; gene_name "L"; transcript_id "L"; gbkey "CDS"; product "RNA-dependent RNA polymerase"; protein_id "QDK64768.1"; exon_number "1"; 
+###

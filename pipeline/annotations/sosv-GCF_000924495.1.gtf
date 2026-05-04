@@ -1,0 +1,31 @@
+#gtf-version 2.2
+#!genome-build ViralProj264896
+#!genome-build-accession NCBI_Assembly:GCF_000924495.1
+NC_025343.1	RefSeq	gene	165	1712	.	+	.	gene_id "N"; gene_name "N"; db_xref "GeneID:20964319"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "NZ77_gp1"; 
+NC_025343.1	RefSeq	transcript	165	1712	.	+	.	gene_id "N"; gene_name "N"; transcript_id "N"; db_xref "GeneID:20964319"; locus_tag "NZ77_gp1"; 
+NC_025343.1	RefSeq	exon	165	1712	.	+	.	gene_id "N"; gene_name "N"; transcript_id "N"; db_xref "GeneID:20964319"; locus_tag "NZ77_gp1"; product "nucleoprotein"; exon_number "1"; 
+NC_025343.1	RefSeq	CDS	165	1712	.	+	0	gene_id "N"; gene_name "N"; transcript_id "N"; db_xref "GenBank:YP_009094028.1"; db_xref "GeneID:20964319"; gbkey "CDS"; locus_tag "NZ77_gp1"; product "nucleoprotein"; protein_id "YP_009094028.1"; exon_number "1"; 
+NC_025343.1	RefSeq	gene	1908	3105	.	+	.	gene_id "P/V"; gene_name "P/V"; db_xref "GeneID:20964313"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "NZ77_gp2"; 
+NC_025343.1	RefSeq	transcript	1908	3105	.	+	.	gene_id "P/V"; transcript_id "P/V"; db_xref "GeneID:20964313"; note "unedited mRNA"; locus_tag "NZ77_gp2"; product "phosphoprotein, "; 
+NC_025343.1	RefSeq	exon	1908	3105	.	+	.	gene_id "P/V"; gene_name "P/V"; transcript_id "P/V"; db_xref "GeneID:20964313"; exception "RNA editing"; gbkey "CDS"; locus_tag "NZ77_gp2"; product "phosphoprotein and nonstructural protein V"; note "unedited mRNA"; exon_number "1"; 
+NC_025343.1	RefSeq	CDS	1908	2648	.	+	0	gene_id "V"; gene_name "V"; transcript_id "V"; db_xref "GenBank:YP_009094030.1"; db_xref "GeneID:20964315"; gbkey "CDS"; locus_tag "NZ77_gp3"; product "V protein"; protein_id "YP_009094030.1"; note "unedited mRNA"; exon_number "1"; 
+NC_025343.1	RefSeq	CDS	1908	2387	.	+	0	gene_id "P"; gene_name "P"; transcript_id "P"; db_xref "GenBank:YP_009094029.1"; db_xref "GeneID:20964313"; gbkey "CDS"; locus_tag "NZ77_gp2"; product "phosphoprotein"; protein_id "YP_009094029.1"; exception "RNA editing"; exon_number "1"; 
+NC_025343.1	RefSeq	CDS	2386	3105	.	+	0	gene_id "P"; gene_name "P"; transcript_id "P"; db_xref "GenBank:YP_009094029.1"; db_xref "GeneID:20964313"; gbkey "CDS"; locus_tag "NZ77_gp2"; product "phosphoprotein"; protein_id "YP_009094029.1"; exception "RNA editing"; exon_number "1"; 
+NC_025343.1	RefSeq	gene	3318	4451	.	+	.	gene_id "M"; gene_name "M"; db_xref "GeneID:20964314"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "NZ77_gp4"; 
+NC_025343.1	RefSeq	transcript	3318	4451	.	+	.	gene_id "M"; gene_name "M"; transcript_id "M"; db_xref "GeneID:20964314"; locus_tag "NZ77_gp4"; product "matrix protein"; 
+NC_025343.1	RefSeq	exon	3318	4451	.	+	.	gene_id "M"; gene_name "M"; transcript_id "M"; db_xref "GeneID:20964314"; locus_tag "NZ77_gp4"; product "matrix protein"; exon_number "1"; 
+NC_025343.1	RefSeq	CDS	3318	4451	.	+	0	gene_id "M"; gene_name "M"; transcript_id "M"; db_xref "GenBank:YP_009094031.1"; db_xref "GeneID:20964314"; gbkey "CDS"; locus_tag "NZ77_gp4"; product "matrix protein"; protein_id "YP_009094031.1"; exon_number "1"; 
+NC_025343.1	RefSeq	gene	4850	6454	.	+	.	gene_id "F"; gene_name "F"; db_xref "GeneID:20964316"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "NZ77_gp5"; 
+NC_025343.1	RefSeq	transcript	4850	6454	.	+	.	gene_id "F"; gene_name "F"; transcript_id "F"; db_xref "GeneID:20964316"; locus_tag "NZ77_gp5"; product "fusion protein"; 
+NC_025343.1	RefSeq	exon	4850	6454	.	+	.	gene_id "F"; gene_name "F"; transcript_id "F"; db_xref "GeneID:20964316"; locus_tag "NZ77_gp5"; product "fusion protein"; exon_number "1"; 
+NC_025343.1	RefSeq	CDS	4850	6454	.	+	0	gene_id "F"; gene_name "F"; transcript_id "F"; db_xref "GenBank:YP_009094032.1"; db_xref "GeneID:20964316"; gbkey "CDS"; locus_tag "NZ77_gp5"; product "fusion protein"; protein_id "YP_009094032.1"; exon_number "1"; 
+NC_025343.1	RefSeq	gene	6653	8401	.	+	.	gene_id "HN"; gene_name "HN"; db_xref "GeneID:20964317"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "NZ77_gp6"; 
+NC_025343.1	RefSeq	transcript	6653	8401	.	+	.	gene_id "HN"; gene_name "HN"; transcript_id "HN"; db_xref "GeneID:20964317"; locus_tag "NZ77_gp6"; product "hemagglutinin-neuraminidase"; 
+NC_025343.1	RefSeq	exon	6653	8401	.	+	.	gene_id "HN"; gene_name "HN"; transcript_id "HN"; db_xref "GeneID:20964317"; locus_tag "NZ77_gp6"; product "hemagglutinin-neuraminidase"; exon_number "1"; 
+NC_025343.1	RefSeq	CDS	6653	8401	.	+	0	gene_id "HN"; gene_name "HN"; transcript_id "HN"; db_xref "GenBank:YP_009094033.1"; db_xref "GeneID:20964317"; gbkey "CDS"; locus_tag "NZ77_gp6"; product "hemagglutinin-neuraminidase"; protein_id "YP_009094033.1"; exon_number "1"; 
+NC_025343.1	RefSeq	gene	8600	15415	.	+	.	gene_id "L"; gene_name "L"; db_xref "GeneID:20964318"; gbkey "Gene"; gene_biotype "protein_coding"; locus_tag "NZ77_gp7"; 
+NC_025343.1	RefSeq	transcript	8600	15415	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; db_xref "GeneID:20964318"; locus_tag "NZ77_gp7"; product "RNA-dependent RNA polymerase"; 
+NC_025343.1	RefSeq	exon	8600	15415	.	+	.	gene_id "L"; gene_name "L"; transcript_id "L"; db_xref "GeneID:20964318"; locus_tag "NZ77_gp7"; product "RNA-dependent RNA polymerase"; exon_number "1"; 
+NC_025343.1	RefSeq	CDS	8600	15415	.	+	0	gene_id "L"; gene_name "L"; transcript_id "L"; db_xref "GenBank:YP_009094034.1"; db_xref "GeneID:20964318"; gbkey "CDS"; locus_tag "NZ77_gp7"; product "RNA-dependent RNA polymerase"; protein_id "YP_009094034.1"; exon_number "1"; 
+###
+
